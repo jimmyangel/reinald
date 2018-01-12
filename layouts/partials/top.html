@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{.Site.LanguageCode}}">
 	<head>
+		<meta name=”robots” content=”noindex, nofollow”>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,7 +15,7 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
 		<link href="{{if ne .Section ""}}../../{{end}}css/style.css" rel="stylesheet">
-		
+
 		<link rel="stylesheet" href="{{if ne .Section ""}}../../{{end}}components/magnific/magnific-popup.css">
 
 	</head>
@@ -36,13 +37,13 @@
 							<a href="{{if ne .Section ""}}../../{{end}}#page-top">Home</a>
 						</li>
 						<li>
-							<a href="{{if ne .Section ""}}../../{{end}}#galleries">{{.Site.Params.menu.galleriesText}}</a>
+							<a href="{{if ne .Section ""}}../../{{end}}#galleries">{{.Site.Params.choices.galleriesText}}</a>
 						</li>
 						<li>
-							<a href="{{if ne .Section ""}}../../{{end}}#about">{{.Site.Params.menu.aboutText}}</a>
+							<a href="{{if ne .Section ""}}../../{{end}}#about">{{.Site.Params.choices.aboutText}}</a>
 						</li>
 						<li>
-							<a href="{{if ne .Section ""}}../../{{end}}#contact">{{.Site.Params.menu.contactText}}</a>
+							<a href="{{if ne .Section ""}}../../{{end}}#contact">{{.Site.Params.choices.contactText}}</a>
 						</li>
 					</ul>
 				</div>

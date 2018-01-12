@@ -2,10 +2,10 @@ baseurl = "http://reinaldvandewalle.com/"
 languageCode = "es"
 title = "Reinald Arte Funcional"
 
-[params.menu]
-  galleriesText = "Galerías"
-  aboutText = "Bio"
-  contactText = "Contacto"
+[params.choices]
+    galleriesText = "Galerías"
+    aboutText = "Bio"
+    contactText = "Contacto"
 
 [params.header]
   leadIn = "Bienvenido a Reinald Arte Funcional"

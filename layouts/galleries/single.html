@@ -13,17 +13,17 @@
     <div class="row">
       <div class="grid zoom-gallery">
         <div class="grid-sizer"></div>
-        {{range .Params.gallery.items}}
+        {{range $element := .Params.gallery.items}}
         <div class="grid-item">
           <div class="panel panel-default">
-            <a class="gallery-item" href="images/{{.itemImage}}" caption="{{.itemName}}">
-              <img class="img-responsive" src="images/{{.itemThumb}}" alt="">
+            <a class="gallery-item" href="images/{{$element.itemImage}}" caption="{{$element.itemName}}">
+              <img class="img-responsive" src="images/{{$element.itemThumb}}" alt="">
             </a>
             <div class="panel-footer text-center">
-              {{.itemName}}
+              {{$element.itemName}}
             </div>
             <div class="panel-caption text-center">
-              {{.itemCaption}}
+              {{$element.itemCaption}}
             </div>
           </div>
         </div>
