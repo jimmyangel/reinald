@@ -1,0 +1,87 @@
+{{ partial "top" . }}
+	<!-- Header -->
+	<header>
+		<div class="container">
+			<div class="slider-container">
+				<div class="intro-text">
+					<div class="intro-statement">{{.Params.header.statement}}</div>
+					<a href="#galleries" class="page-scroll btn btn-xl">{{.Params.header.buttonText}}</a>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<section id="galleries">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 text-center">
+					<div class="section-title">
+						<h2>{{.Site.Params.galleriesText}}</h2>
+						<p>{{.Params.galleries.galleriesText}}</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="row row-0-gutter">
+				{{range $element := .Params.gallerylist}}
+				<!-- start portfolio item -->
+				<div class="col-md-4 col-0-gutter">
+					<div class="portfolio-item">
+						<figure class="effect-bubba">
+							<img src="galleries/images/{{$element.galleryImage}}" alt="img02" class="img-responsive" />
+							<figcaption>
+								<h2>{{ $element.galleryName }}</h2>
+								<p>{{ $element.galleryCaption }}</p>
+								<a href="galleries/{{ $element.galleryKey }}/">View more</a>
+							</figcaption>
+						</figure>
+					</div>
+				</div>
+				<!-- end portfolio item -->
+				{{end}}
+			</div>
+		</div><!-- end container -->
+	</section>
+
+	<section id="about" class="dark-bg">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 text-center">
+					<div class="section-title">
+						<h2>{{.Site.Params.aboutText}}</h2>
+						<p>{{.Params.about.aboutText}}</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				{{range $element := .Params.aboutlist}}
+				<!-- about module -->
+				<div class="col-md-3 text-center">
+					<div class="module-about">
+						<i class="fa fa-check item-circle"></i>
+						<h3>{{$element.aboutItemTitle}}</h3>
+						<p>{{$element.aboutItemDescription}}</p>
+					</div>
+				</div>
+				<!-- end about module -->
+				{{end}}
+			</div>
+		</div>
+		<!-- /.container -->
+	</section>
+
+	<section id="contact" class="light-bg">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 text-center">
+					<div class="section-title">
+						<h2>{{.Site.Params.contactText}}</h2>
+						<p>{{.Params.contact.contactText}}</p>
+						<p><i class="fa fa-envelope"></i> {{.Params.contact.contactEmail}}</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+{{ partial "bottom" . }}
