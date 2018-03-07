@@ -1,6 +1,6 @@
 ---
 title: muebles
-label: Perritos mios
+label: Perritos
 galleryitems:
   - itemCaption: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
