@@ -1,5 +1,6 @@
 ---
-title: Perritos
+title: muebles
+label: Perritos
 
 galleryitems:
   - itemName: Item 1

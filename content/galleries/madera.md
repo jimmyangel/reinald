@@ -1,5 +1,6 @@
 ---
-title: Cajas de madera
+title: madera
+label: Cajas de madera
 
 galleryitems:
   - itemName: Item 1

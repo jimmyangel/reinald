@@ -1,5 +1,6 @@
 ---
-title: Repisas
+title: repisas
+label: Repisas
 
 galleryitems:
   - itemName: Item 1
