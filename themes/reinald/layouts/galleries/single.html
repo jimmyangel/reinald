@@ -16,8 +16,8 @@
         {{range $index, $element := .Params.galleryitems}}
         <div class="grid-item">
           <div class="panel panel-default">
-            <a class="gallery-item" href="images/{{$element.itemImage}}" caption="{{$element.itemName}}">
-              <img class="img-responsive" src="images/{{$element.itemThumb}}" alt="">
+            <a class="gallery-item" href="/images/uploads/{{$element.itemImage}}" caption="{{$element.itemName}}">
+              <img class="img-responsive" src="/images/uploads/{{$element.itemThumb}}" alt="">
             </a>
             <div class="panel-footer text-center">
               {{$element.itemName}}

@@ -195,7 +195,7 @@ section ul li:before {
 }
 
 header {
-	background-image: url(../images/intro.jpg);
+	background-image: url("/images/uploads/home-intro.jpg" );
 	background-repeat: none;
 	background-attachment: scroll;
 	background-position: center center;

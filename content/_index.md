@@ -8,27 +8,27 @@ galleriesText: |
 gallerylist:
   - galleryKey: madera
     galleryName: Cajas de madera
-    galleryImage: gallery-1.jpg
+    galleryImage: home-gallery-1.jpg
     galleryCaption: Galletas, bombones, té
   - galleryKey: repisas
     galleryName: Repisas
-    galleryImage: gallery-2.jpg
+    galleryImage: home-gallery-2.jpg
     galleryCaption: Para miniaturas y recuerdos
   - galleryKey: muebles
     galleryName: Perritos
-    galleryImage: gallery-3.jpg
+    galleryImage: home-gallery-3.jpg
     galleryCaption: Para jugar y reir
   - galleryKey: madera
     galleryName: Galeria Cuatro
-    galleryImage: gallery-4.jpg
+    galleryImage: home-gallery-4.jpg
     galleryCaption: caption 4
   - galleryKey: madera
     galleryName: Galeria Cinco
-    galleryImage: gallery-5.jpg
+    galleryImage: home-gallery-5.jpg
     galleryCaption: caption 5
   - galleryKey: madera
     galleryName: Galeria Seis
-    galleryImage: gallery-6.jpg
+    galleryImage: home-gallery-6.jpg
     galleryCaption: caption 6
 
 aboutText: |
