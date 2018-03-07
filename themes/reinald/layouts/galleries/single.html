@@ -13,7 +13,7 @@
     <div class="row">
       <div class="grid zoom-gallery">
         <div class="grid-sizer"></div>
-        {{range $element := .Params.gallery.items}}
+        {{range $index, $element := .Params.galleryitems}}
         <div class="grid-item">
           <div class="panel panel-default">
             <a class="gallery-item" href="images/{{$element.itemImage}}" caption="{{$element.itemName}}">
