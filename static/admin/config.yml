@@ -19,3 +19,23 @@ collections:
           {label: "Item Caption", name: "itemCaption", widget: "string"},
           {label: "Item Thumbnail", name: "itemThumb", widget: "string"},
           {label: "Item Image", name: "itemImage", widget: "string"}]}
+
+  - name: "pages"
+    label: "pages"
+    files:
+      - file: config.toml
+        label: "Site Config"
+        name: config
+        fields:
+          - label: "Site Parameters"
+            name: "params"
+            widget: "object"
+            fields:
+              - {label: "Galleries Text", name: "galleriesText", widget: "string"}
+              - {label: "About Text", name: "aboutText", widget: "string"}
+              - {label: "Contact Text", name: "contactText", widget: "string"}
+              - {label: "Footer Text", name: "footerText", widget: "string"}
+          - {label: "Base URL", name: "baseURL", widget: "string", required: false, default: ""}
+          - {label: "Language Code", name: "languageCode", widget: "string", default: "es"}
+          - {label: "Title", name: "title", widget: "string", default: "Reinald Arte Funcional"}
+          - {label: "Theme", name: "theme", widget: "string", default: "reinald"}
