@@ -6,5 +6,5 @@ theme = "reinald"
 [params]
 aboutText = "Bio"
 contactText = "Contacto"
-footerText = "Copyright © 2016 Reinald Van De Walle, Last Updated: March 2018"
+footerText = "Copyright © 2018 Reinald Van De Walle, Last Updated: March 2018"
 galleriesText = "Galerías"
