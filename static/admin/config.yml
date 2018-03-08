@@ -35,7 +35,7 @@ collections:
               - {label: "About Text", name: "aboutText", widget: "string"}
               - {label: "Contact Text", name: "contactText", widget: "string"}
               - {label: "Footer Text", name: "footerText", widget: "string"}
-          - {label: "Base URL", name: "baseURL", widget: "string", required: false, default: ""}
+          - {label: "Base URL", name: "baseurl", widget: "string", required: false, default: ""}
           - {label: "Language Code", name: "languageCode", widget: "string", default: "es"}
           - {label: "Title", name: "title", widget: "string", default: "Reinald Arte Funcional"}
           - {label: "Theme", name: "theme", widget: "string", default: "reinald"}
