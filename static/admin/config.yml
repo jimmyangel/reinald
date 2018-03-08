@@ -39,3 +39,21 @@ collections:
           - {label: "Language Code", name: "languageCode", widget: "string", default: "es"}
           - {label: "Title", name: "title", widget: "string", default: "Reinald Arte Funcional"}
           - {label: "Theme", name: "theme", widget: "string", default: "reinald"}
+      - file: content/_index.md
+        label: "Main Page"
+        name: index
+        fields:
+          - {label: "Splash statement", name: "statement", widget: "string"}
+          - {label: "Jump to galleries button text", name: "buttonText", widget: "string"}
+          - {label: "Galleries heading text", name: "galleriesText", widget: "string"}
+          - {label: "Gallery List", name: "gallerylist", widget: "list", fields: [
+              {label: "Gallery Key", name: "galleryKey", widget: "string"},
+              {label: "Gallery Name", name: "galleryName", widget: "string"},
+              {label: "Gallery Image", name: "galleryImage", widget: "string"},
+              {label: "Gallery Caption", name: "galleryCaption", widget: "string"}]}
+          - {label: "About text", name: "aboutText", widget: "markdown"}
+          - {label: "About List", name: "aboutList", widget: "list", fields: [
+              {label: "About Item Title", name: "aboutItemTitle", widget: "string"},
+              {label: "About Item Description", name: "aboutItemDescription", widget: "markdown"}]}
+          - {label: "Contact text", name: "contactText", widget: "markdown"}
+          - {label: "Contact email", name: "contactEmail", widget: "string"}
