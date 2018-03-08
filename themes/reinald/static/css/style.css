@@ -87,6 +87,10 @@ section ul li:before {
     margin-top: 80px;
 }
 
+.small-spacer {
+    margin-top: 40px;
+}
+
 .row-0-gutter {
     margin-left: -13px;
     margin-right: -13px;
