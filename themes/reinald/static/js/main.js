@@ -53,6 +53,11 @@ function galleryInit() {
   });
 }
 
+function isTouchDevice() {
+  return 'ontouchstart' in window        // works on most browsers
+      || navigator.maxTouchPoints;       // works on IE10/11 and Surface
+};
+
 // Initialize onload items
 $(function () {
   // Smooth scroll to section
@@ -79,5 +84,12 @@ $(function () {
   //Set up magnificPopup (TODO: only in galleries)
 
   galleryInit();
+
+  // If touch device, get rid of the bubba effect
+
+  if (isTouchDevice()) {
+    $('.portfolio-item>figure').removeClass('effect-bubba');
+    $('.portfolio-item>figure').addClass('noeffect-bubba');
+  }
 
 });

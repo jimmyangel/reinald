@@ -1,4 +1,3 @@
-
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900");
 
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800");
@@ -463,6 +462,82 @@ figure.effect-bubba:hover figcaption::after {
 
 figure.effect-bubba:hover h2,
 figure.effect-bubba:hover p {
+	opacity: 1;
+	-webkit-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);
+}
+
+/******* NO EFFECT BUBBA ********/
+figure.noeffect-bubba {
+	background: #000;
+	margin-bottom: 1px;
+}
+
+figure.noeffect-bubba img {
+	opacity: 0.6;
+}
+
+figure.noeffect-bubba figcaption::before,
+figure.noeffect-bubba figcaption::after {
+	position: absolute;
+	top: 30px;
+	right: 30px;
+	bottom: 30px;
+	left: 30px;
+	content: '';
+	opacity: 0;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+}
+
+figure.noeffect-bubba figcaption::before {
+	border-top: 1px solid #999;
+	border-bottom: 1px solid #999;
+	-webkit-transform: scale(0,1);
+	transform: scale(0,1);
+}
+
+figure.noeffect-bubba figcaption::after {
+	border-right: 1px solid #999;
+	border-left: 1px solid #999;
+	-webkit-transform: scale(1,0);
+	transform: scale(1,0);
+}
+
+figure.noeffect-bubba h2 {
+	opacity: 0;
+	color: #DDD;
+	font-size: 15px;
+	font-weight: 400;
+	text-transform: uppercase;
+	padding-top: 30%;
+	-webkit-transition: -webkit-transform 0.35s;
+	transition: transform 0.35s;
+	-webkit-transform: translate3d(0,-20px,0);
+	transform: translate3d(0,-20px,0);
+}
+
+figure.noeffect-bubba p {
+	color: #DDD;
+	font-size: 13px;
+	font-weight: 300;
+	padding: 20px 2.5em;
+	opacity: 0;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: translate3d(0,20px,0);
+	transform: translate3d(0,20px,0);
+}
+
+figure.noeffect-bubba figcaption::before,
+figure.noeffect-bubba figcaption::after {
+	opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+
+figure.noeffect-bubba h2,
+figure.noeffect-bubba p {
 	opacity: 1;
 	-webkit-transform: translate3d(0,0,0);
 	transform: translate3d(0,0,0);
