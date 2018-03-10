@@ -112,7 +112,7 @@ section ul li:before {
 }
 
 .navbar-default .navbar-brand img {
-	/*padding: 5px; */
+	padding: 5px;
 	/*width: 80%;*/
 }
 .navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:active,.navbar-default .navbar-brand.active {
