@@ -7,7 +7,7 @@ galleriesText: >
 gallerylist:
   - galleryCaption: 'Miniaturímetros variados, mesas, camas, comedor'
     galleryImage: home-gallery-1.jpg
-    galleryKey: Varios materiales
+    galleryKey: madera
     galleryName: Muebles
   - galleryCaption: 'de té, galletas, joyeros, regalos'
     galleryImage: home-gallery-2.jpg
