@@ -6,9 +6,7 @@ galleryitems:
     itemImage: galleries-muebles-image1.jpg
     itemName: Profesionales
     itemThumb: galleries-muebles-image1-thumb.jpg
-  - itemCaption: >-
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-      aliquip ex ea commodo consequat.
+  - itemCaption: Para estudiantes realizadas con cartón
     itemImage: galleries-muebles-image2.jpg
     itemName: Tesis de grado universitario
     itemThumb: galleries-muebles-image2-thumb.jpg
