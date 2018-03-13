@@ -27,7 +27,7 @@ gallerylist:
     galleryName: Galeria Cinco
   - galleryCaption: caption 6
     galleryImage: home-gallery-6.jpg
-    galleryKey: madera
+    galleryKey: maquetas
     galleryName: Galeria Seis
 aboutText: >
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
