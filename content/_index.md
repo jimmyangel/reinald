@@ -37,7 +37,14 @@ aboutText: >
   eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
   in culpa qui officia deserunt mollit anim id est laborum.
 aboutList:
-  - aboutItemTitle: Aun no se que poner aqui
+  - aboutItemDescription: texto texto texto texto texto texto texto texto
+    aboutItemTitle: Aun no se que poner aqui
+  - aboutItemDescription: >-
+      texto texto texto texto texto texto texto texto texto texto texto texto
+      texto texto texto texto texto texto
+    aboutItemTitle: Bueno pero entonces tienes que
+  - aboutItemDescription: texto texto texto texto texto texto texto texto
+    aboutItemTitle: pensar que pones
 contactText: >
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
