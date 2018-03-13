@@ -45,6 +45,8 @@ aboutList:
     aboutItemTitle: Bueno pero entonces tienes que
   - aboutItemDescription: texto texto texto texto texto texto texto texto
     aboutItemTitle: pensar que pones
+  - aboutItemDescription: texto texto texto texto texto texto texto texto
+    aboutItemTitle: el cuarto
 contactText: >
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
