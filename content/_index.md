@@ -5,14 +5,14 @@ galleriesText: >
   Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
   deserunt mollit anim id est laborum.
 gallerylist:
-  - galleryCaption: 'Miniaturímetros variados, mesas, camas, comedor'
-    galleryImage: home-gallery-1.jpg
-    galleryKey: madera
-    galleryName: Muebles
   - galleryCaption: 'de té, galletas, joyeros, regalos'
     galleryImage: home-gallery-2.jpg
     galleryKey: cajas
     galleryName: Cajas
+  - galleryCaption: 'Miniaturímetros variados, mesas, camas, comedor'
+    galleryImage: home-gallery-1.jpg
+    galleryKey: madera
+    galleryName: Muebles
   - galleryCaption: Para jugar y reir
     galleryImage: home-gallery-3.jpg
     galleryKey: muebles
