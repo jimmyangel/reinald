@@ -10,7 +10,7 @@ gallerylist:
     galleryKey: muebles
     galleryName: Muebles Funcionales
   - galleryCaption: Para usos variados
-    galleryImage: home-gallery-1.jpg
+    galleryImage: home-gallery-2.jpg
     galleryKey: cajas
     galleryName: Cajas
   - galleryCaption: 'Publicidad, presentaciones'
