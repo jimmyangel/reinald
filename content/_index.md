@@ -14,7 +14,7 @@ gallerylist:
     galleryKey: cajas
     galleryName: Cajas
   - galleryCaption: 'Publicidad, presentaciones'
-    galleryImage: home-gallery-8.jpg
+    galleryImage: home-gallery-3.jpg
     galleryKey: maquetas
     galleryName: Maquetas
   - galleryCaption: 'Maquetas a escala reducida '
