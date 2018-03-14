@@ -5,8 +5,8 @@ galleryitems:
   - itemImage: 'CajaTapaMadera B&N 2.jpg '
     itemName: Caja de té
   - itemCaption: Cuadradas y rectangulares
-    itemImage: Con tapa de metacrilato
+    itemImage: galleries-cajas-congalletas.jpg
     itemName: Galletero
-    itemThumb: galleries-cajas-congalletas-thumb
+    itemThumb: galleries-cajas-congalletas-thumb.jpg
 ---
 
