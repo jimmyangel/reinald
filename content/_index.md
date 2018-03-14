@@ -6,7 +6,7 @@ galleriesText: >
   deserunt mollit anim id est laborum.
 gallerylist:
   - galleryCaption: Para jugar y reir
-    galleryImage: home-gallery-3.jpg
+    galleryImage: home-gallery-3
     galleryKey: muebles
     galleryName: Perritos
   - galleryCaption: 'de té, galletas, joyeros, regalos'
