@@ -6,7 +6,7 @@ galleriesText: >
   deserunt mollit anim id est laborum.
 gallerylist:
   - galleryCaption: Para ensamblar
-    galleryImage: home-gallery-7.jpg
+    galleryImage: home-gallery-1.jpg
     galleryKey: muebles
     galleryName: Muebles Funcionales
   - galleryCaption: Para usos variados
