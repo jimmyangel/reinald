@@ -6,7 +6,7 @@ galleryitems:
     itemName: Caja de té
   - itemCaption: Cuadradas y rectangulares
     itemImage: galleries-cajas-congalletas.jpg
-    itemName: Galletero
+    itemName: Galleteros
     itemThumb: galleries-cajas-congalletas-thumb.jpg
 ---
 
