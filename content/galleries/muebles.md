@@ -1,5 +1,5 @@
 ---
-title: maquetas
+title: madera
 label: Maquetas
 galleryitems:
   - itemCaption: Para ventas
