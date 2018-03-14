@@ -486,7 +486,17 @@ figure.noeffect-bubba {
 }
 
 figure.noeffect-bubba img {
+	/* opacity: 0.95; */
+	-webkit-transition: opacity 0.35s;
+	transition: opacity 0.35s;
+}
+
+figure.noeffect-bubba img {
 	opacity: 0.6;
+}
+
+figure.noeffect-bubba:hover img {
+	opacity: 0.8;
 }
 
 figure.noeffect-bubba figcaption::before,
@@ -503,15 +513,15 @@ figure.noeffect-bubba figcaption::after {
 }
 
 figure.noeffect-bubba figcaption::before {
-	border-top: 1px solid #999;
-	border-bottom: 1px solid #999;
+	border-top: 1px solid #DDD;
+	border-bottom: 1px solid #DDD;
 	-webkit-transform: scale(0,1);
 	transform: scale(0,1);
 }
 
 figure.noeffect-bubba figcaption::after {
-	border-right: 1px solid #999;
-	border-left: 1px solid #999;
+	border-right: 1px solid #DDD;
+	border-left: 1px solid #DDD;
 	-webkit-transform: scale(1,0);
 	transform: scale(1,0);
 }
@@ -553,6 +563,16 @@ figure.noeffect-bubba p {
 	opacity: 1;
 	-webkit-transform: translate3d(0,0,0);
 	transform: translate3d(0,0,0);
+}
+
+figure.noeffect-bubba:hover h2,
+figure.noeffect-bubba:hover p {
+	color: #FFF;
+}
+
+figure.noeffect-bubba:hover figcaption::before,
+figure.noeffect-bubba:hover figcaption::after {
+	border: 1px solid #FFF;
 }
 
 .light-bg {
