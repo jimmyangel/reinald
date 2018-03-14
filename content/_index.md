@@ -20,7 +20,7 @@ gallerylist:
   - galleryCaption: caption 4
     galleryImage: home-gallery-4.jpg
     galleryKey: madera
-    galleryName: Galeria Cuatro
+    galleryName: home-gallery-4
   - galleryCaption: caption 5
     galleryImage: home-gallery-5.jpg
     galleryKey: madera
