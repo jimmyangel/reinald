@@ -2,9 +2,9 @@
 title: maquetas
 label: Maquetas
 galleryitems:
-  - itemCaption: Esta es la explicación de la maqueta
-    itemImage: galleries-madera-2bombones1.jpg
-    itemName: Esta es una maqueta
-    itemThumb: galleries-madera-2bombones1-thumb.jpg
+  - itemCaption: En Los Anaucos
+    itemImage: galleries-maquetas-losanaucos.jpg
+    itemName: Vivienda unifamiliar
+    itemThumb: galleries-maquetas-losanaucos.thumb.jpg
 ---
 
