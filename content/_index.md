@@ -6,7 +6,7 @@ galleriesText: >
   deserunt mollit anim id est laborum.
 gallerylist:
   - galleryCaption: Para ensamblar
-    galleryImage: home-gallery-7
+    galleryImage: home-gallery-7.jpg
     galleryKey: muebles
     galleryName: Arte y función
   - galleryCaption: 'de té, galletas, joyeros, regalos'
