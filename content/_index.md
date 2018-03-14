@@ -13,21 +13,21 @@ gallerylist:
     galleryImage: home-gallery-1.jpg
     galleryKey: cajas
     galleryName: Cajas
+  - galleryCaption: 'Madera, plástico, cartón, metacrilato, combinados'
+    galleryImage: home-gallery-8.jpg
+    galleryKey: maquetas
+    galleryName: Maquetas
   - galleryCaption: 'Miniaturimetros, mesas, camas, comedor,...'
     galleryImage: home-gallery-2.jpg
     galleryKey: madera
     galleryName: Muebles
-  - galleryCaption: 'Madera, plástico, cartón, metacrilato, combinados'
-    galleryImage: home-gallery-8.jpg
-    galleryKey: madera
-    galleryName: Maquetas
   - galleryCaption: caption 5
     galleryImage: home-gallery-5.jpg
     galleryKey: madera
     galleryName: Galeria Cinco
   - galleryCaption: caption 6
     galleryImage: home-gallery-6.jpg
-    galleryKey: maquetas
+    galleryKey: madera
     galleryName: Galeria Seis
 aboutText: >
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
