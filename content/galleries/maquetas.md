@@ -4,9 +4,7 @@ label: Maquetas
 galleryitems:
   - itemCaption: 'Plástico '
     itemImage: galleries-maquetas-losanaucos.jpg
-    itemName: >-
-      Vivienda unifamiliar                                          en Los
-      Anaucos
+    itemName: 'Vivienda unifamiliar                                     '
     itemThumb: galleries-maquetas-losanaucos.thumb.jpg
 ---
 
