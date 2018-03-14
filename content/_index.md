@@ -17,10 +17,10 @@ gallerylist:
     galleryImage: home-gallery-1.jpg
     galleryKey: madera
     galleryName: Muebles
-  - galleryCaption: caption 4
+  - galleryCaption: 'Adornos, regalos, pino navideño'
     galleryImage: home-gallery-4.jpg
     galleryKey: madera
-    galleryName: home-gallery-4
+    galleryName: Miscelaneos
   - galleryCaption: caption 5
     galleryImage: home-gallery-5.jpg
     galleryKey: madera
