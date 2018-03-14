@@ -17,10 +17,10 @@ gallerylist:
     galleryImage: home-gallery-8.jpg
     galleryKey: maquetas
     galleryName: Maquetas
-  - galleryCaption: 'Miniaturimetros, mesas, camas, comedor,...'
-    galleryImage: home-gallery-2.jpg
-    galleryKey: madera
-    galleryName: Muebles
+  - galleryCaption: 'Maquetas a escala reducida '
+    galleryImage: ''
+    galleryKey: veleros
+    galleryName: Veleros
   - galleryCaption: caption 5
     galleryImage: home-gallery-5.jpg
     galleryKey: madera
