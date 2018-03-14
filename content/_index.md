@@ -13,7 +13,7 @@ gallerylist:
     galleryImage: home-gallery-2.jpg
     galleryKey: cajas
     galleryName: Cajas
-  - galleryCaption: 'Miniaturímetros variados, mesas, camas, comedor'
+  - galleryCaption: 'Galleteros, para Té, joyeros'
     galleryImage: home-gallery-1.jpg
     galleryKey: madera
     galleryName: Muebles
