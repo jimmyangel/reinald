@@ -8,7 +8,7 @@ gallerylist:
   - galleryCaption: Para ensamblar
     galleryImage: home-gallery-7.jpg
     galleryKey: muebles
-    galleryName: Arte y función
+    galleryName: Funcionales
   - galleryCaption: 'de té, galletas, joyeros, regalos'
     galleryImage: home-gallery-2.jpg
     galleryKey: cajas
