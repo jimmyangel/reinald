@@ -18,7 +18,7 @@ gallerylist:
     galleryKey: maquetas
     galleryName: Maquetas
   - galleryCaption: 'Maquetas a escala reducida '
-    galleryImage: home-gallery-9.jpg
+    galleryImage: home-gallery-4.jpg
     galleryKey: veleros
     galleryName: Veleros
   - galleryCaption: caption 5
