@@ -13,7 +13,7 @@ gallerylist:
     galleryImage: home-gallery-1.jpg
     galleryKey: cajas
     galleryName: Cajas
-  - galleryCaption: 'Madera, plástico, cartón, metacrilato, combinados'
+  - galleryCaption: 'Publicidad, presentaciones'
     galleryImage: home-gallery-8.jpg
     galleryKey: maquetas
     galleryName: Maquetas
