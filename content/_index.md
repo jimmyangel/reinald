@@ -17,10 +17,10 @@ gallerylist:
     galleryImage: home-gallery-1.jpg
     galleryKey: madera
     galleryName: Muebles
-  - galleryCaption: 'Adornos, regalos, pino navideño'
-    galleryImage: home-gallery-4.jpg
+  - galleryCaption: 'Madera, plástico, cartón, metacrilato, combinados'
+    galleryImage: home-gallery-8.jpg
     galleryKey: madera
-    galleryName: Miscelaneos
+    galleryName: Maquetas
   - galleryCaption: caption 5
     galleryImage: home-gallery-5.jpg
     galleryKey: madera
