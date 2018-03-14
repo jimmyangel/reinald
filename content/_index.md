@@ -6,7 +6,7 @@ galleriesText: >
   deserunt mollit anim id est laborum.
 gallerylist:
   - galleryCaption: 'de té, galletas, joyeros, regalos'
-    galleryImage: galleries-madera-3parate7.jpg
+    galleryImage: home-gallery-2.jpg
     galleryKey: cajas
     galleryName: Cajas
   - galleryCaption: 'Miniaturímetros variados, mesas, camas, comedor'
