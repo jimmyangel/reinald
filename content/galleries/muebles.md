@@ -1,5 +1,5 @@
 ---
-title: muebles
+title: maquetas
 label: Maquetas
 galleryitems:
   - itemCaption: Para ventas
