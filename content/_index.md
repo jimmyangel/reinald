@@ -16,7 +16,7 @@ gallerylist:
   - galleryCaption: 'Galleteros, para Té, joyeros'
     galleryImage: home-gallery-1.jpg
     galleryKey: madera
-    galleryName: Muebles
+    galleryName: Cajas
   - galleryCaption: 'Madera, plástico, cartón, metacrilato, combinados'
     galleryImage: home-gallery-8.jpg
     galleryKey: madera
