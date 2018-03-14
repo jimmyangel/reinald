@@ -9,7 +9,7 @@ gallerylist:
     galleryImage: home-gallery-7.jpg
     galleryKey: muebles
     galleryName: Muebles Funcionales
-  - galleryCaption: 'Galleteros, para Té, joyeros'
+  - galleryCaption: Para usos variados
     galleryImage: home-gallery-1.jpg
     galleryKey: cajas
     galleryName: Cajas
