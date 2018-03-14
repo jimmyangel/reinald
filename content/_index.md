@@ -9,14 +9,14 @@ gallerylist:
     galleryImage: home-gallery-7.jpg
     galleryKey: muebles
     galleryName: Muebles Funcionales
-  - galleryCaption: 'de té, galletas, joyeros, regalos'
-    galleryImage: home-gallery-2.jpg
-    galleryKey: cajas
-    galleryName: Cajas
   - galleryCaption: 'Galleteros, para Té, joyeros'
     galleryImage: home-gallery-1.jpg
-    galleryKey: madera
+    galleryKey: cajas
     galleryName: Cajas
+  - galleryCaption: 'Miniaturimetros, mesas, camas, comedor,...'
+    galleryImage: home-gallery-2.jpg
+    galleryKey: madera
+    galleryName: Muebles
   - galleryCaption: 'Madera, plástico, cartón, metacrilato, combinados'
     galleryImage: home-gallery-8.jpg
     galleryKey: madera
