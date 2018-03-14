@@ -3,8 +3,8 @@ title: veleros
 label: Veleros
 galleryitems:
   - itemCaption: De coco
-    itemImage: galleries-veleros-croquisgaleon1.jpg
+    itemImage: galleries-veleros-galeon.jpg
     itemName: Galeon
-    itemThumb: galleries-veleros-croquisgaleon1-thumb.jpg
+    itemThumb: galleries-veleros-galeon-thumb.jpg
 ---
 
