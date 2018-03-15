@@ -1,5 +1,5 @@
 ---
-title: Cajas
+title: cajas
 label: Cajas
 galleryitems:
   - itemImage: 'CajaTapaMadera B&N 2.jpg '
