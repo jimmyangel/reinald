@@ -1,9 +1,7 @@
 ---
 statement: Diseñando y creando
 buttonText: Mis trabajos
-galleriesText: >
-  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-  deserunt mollit anim id est laborum.
+galleriesText: Clasifico mis trabajos en estas 6 galerías para poner un orden a mi mente
 gallerylist:
   - galleryCaption: Para ensamblar
     galleryImage: home-gallery-1.jpg
