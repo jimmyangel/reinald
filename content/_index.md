@@ -1,7 +1,9 @@
 ---
 statement: Diseñando y creando
 buttonText: Mis trabajos
-galleriesText: Clasifico mis trabajos en estas 6 galerías para poner un orden a mi mente
+galleriesText: >-
+  Clasifico mis trabajos y hobbies en estas 6 galerías para poner cierto orden
+  ...a mi mente
 gallerylist:
   - galleryCaption: Para ensamblar
     galleryImage: home-gallery-1.jpg
