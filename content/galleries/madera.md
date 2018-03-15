@@ -1,6 +1,6 @@
 ---
-title: madera
-label: Cajas de madera
+title: proyectos
+label: Proyectos
 galleryitems:
   - itemCaption: Tapa de metacrilato
     itemImage: galleries-madera-galletas1.jpg
