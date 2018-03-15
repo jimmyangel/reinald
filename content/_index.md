@@ -23,8 +23,8 @@ gallerylist:
     galleryName: Veleros
   - galleryCaption: caption 5
     galleryImage: home-gallery-5.jpg
-    galleryKey: madera
-    galleryName: Galeria Cinco
+    galleryKey: miscelaneas
+    galleryName: Miscelaneas
   - galleryCaption: caption 6
     galleryImage: home-gallery-6.jpg
     galleryKey: madera
