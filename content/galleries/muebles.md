@@ -1,6 +1,6 @@
 ---
-title: maquetas
-label: Maquetas
+title: muebles
+label: Muebles
 galleryitems:
   - itemCaption: Para ventas
     itemImage: galleries-muebles-image1.jpg
