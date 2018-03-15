@@ -21,7 +21,7 @@ gallerylist:
     galleryImage: home-gallery-4.jpg
     galleryKey: veleros
     galleryName: Veleros
-  - galleryCaption: caption 5
+  - galleryCaption: 'Regalos, juegos, detalles'
     galleryImage: home-gallery-5.jpg
     galleryKey: miscelaneas
     galleryName: Miscelaneas
