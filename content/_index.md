@@ -25,10 +25,10 @@ gallerylist:
     galleryImage: home-gallery-5.jpg
     galleryKey: miscelaneas
     galleryName: Miscelaneas
-  - galleryCaption: caption 6
+  - galleryCaption: Renders fotografias
     galleryImage: home-gallery-6.jpg
-    galleryKey: madera
-    galleryName: Galeria Seis
+    galleryKey: proyectos
+    galleryName: 'Proyectos '
 aboutText: >-
   Lorem ipsum dolor sit** **amet, consectetur adipiscing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
