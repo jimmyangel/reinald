@@ -1,5 +1,5 @@
 ---
-statement: Creando con las manos
+statement: C r e a n d o
 buttonText: Ver trabajos
 galleriesText: >
   Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
