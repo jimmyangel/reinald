@@ -8,7 +8,7 @@ gallerylist:
   - galleryCaption: Para ensamblar
     galleryImage: home-gallery-1.jpg
     galleryKey: muebles
-    galleryName: Muebles Funcionales
+    galleryName: 'Muebles '
   - galleryCaption: Para usos variados
     galleryImage: home-gallery-2.jpg
     galleryKey: cajas
