@@ -2,10 +2,10 @@
 title: proyectos
 label: Proyectos
 galleryitems:
-  - itemCaption: Tapa de metacrilato
-    itemImage: galleries-madera-galletas1.jpg
-    itemName: Para galletas
-    itemThumb: galleries-madera-galletas1-thumb.jpg
+  - itemCaption: Vista interior entrada y salón
+    itemImage: galleries-proyectos-losanaucos_interior.jpg
+    itemName: Vivienda en Los Anaucos
+    itemThumb: galleries-proyectos-losanaucos_interior-thumb.jpg
   - itemCaption: >-
       Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
       aliquip ex ea commodo consequat.
