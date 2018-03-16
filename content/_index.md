@@ -9,7 +9,7 @@ gallerylist:
     galleryImage: home-gallery-1.jpg
     galleryKey: muebles
     galleryName: 'Muebles '
-  - galleryCaption: Para usos variados
+  - galleryCaption: Usos variados e infinitos
     galleryImage: home-gallery-2.jpg
     galleryKey: cajas
     galleryName: Cajas
