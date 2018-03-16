@@ -10,5 +10,9 @@ galleryitems:
     itemImage: galleries-cajas-congalletas.jpg
     itemName: Galleteros
     itemThumb: galleries-cajas-congalletas-thumb.jpg
+  - itemCaption: Metacrilato
+    itemImage: galleries-cajas-joyerometacrilato.jpg
+    itemName: Joyero
+    itemThumb: galleries-cajas-joyerometacrilato-thumb.jpg
 ---
 
