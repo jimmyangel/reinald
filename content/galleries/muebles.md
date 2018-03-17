@@ -3,9 +3,9 @@ title: muebles
 label: Muebles
 galleryitems:
   - itemCaption: Madera sapeli y DM
-    itemImage: galleries-muebles-image1.jpg
-    itemName: Unificador de adornos
-    itemThumb: galleries-muebles-image1-thumb.jpg
+    itemImage: galleries-portAdornosCircular0.jpg
+    itemName: Unificador de adornos 1
+    itemThumb: galleries-portAdornosCircular0-thumb.jpg
   - itemCaption: Para estudiantes realizadas con cartón
     itemImage: galleries-muebles-image2.jpg
     itemName: Tesis de grado universitario
