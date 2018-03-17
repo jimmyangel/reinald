@@ -2,7 +2,7 @@
 title: maquetas
 label: Maquetas
 galleryitems:
-  - itemCaption: 'Plástico  Escala 1:200'
+  - itemCaption: 'Plástico, escala 1:200'
     itemImage: galleries-maquetas-losanaucos.jpg
     itemName: 'Vivienda unifamiliar                                     '
     itemThumb: galleries-maquetas-losanaucos-thumb.jpg
