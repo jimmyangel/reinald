@@ -2,9 +2,9 @@
 title: cajas
 label: Cajas
 galleryitems:
-  - itemCaption: Madera de pino con tapa de metacrilato
+  - itemCaption: 'Madera de pino con tapa de metacrilato. '
     itemImage: galleries-cajas-parabolsitaste.jpg
-    itemName: Caja de té
+    itemName: Caja con subdivisiones según necesidad para almacenar té
     itemThumb: galleries-cajas-parabolsitaste-thumb.jpg
   - itemCaption: Cuadradas y rectangulares
     itemImage: galleries-cajas-congalletas.jpg
