@@ -2,7 +2,7 @@
 title: cajas
 label: Cajas
 galleryitems:
-  - itemCaption: Con subdivisiones desde 2 hasta......muchas!
+  - itemCaption: Madera de pino con tapa de metacrilato
     itemImage: galleries-cajas-parabolsitaste.jpg
     itemName: Caja de té
     itemThumb: galleries-cajas-parabolsitaste-thumb.jpg
