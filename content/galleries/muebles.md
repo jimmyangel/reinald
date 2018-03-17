@@ -2,9 +2,9 @@
 title: muebles
 label: Muebles
 galleryitems:
-  - itemCaption: Para ventas
+  - itemCaption: Madera sapeli y DM
     itemImage: galleries-muebles-image1.jpg
-    itemName: Profesionales
+    itemName: Unificador de adornos
     itemThumb: galleries-muebles-image1-thumb.jpg
   - itemCaption: Para estudiantes realizadas con cartón
     itemImage: galleries-muebles-image2.jpg
