@@ -47,9 +47,9 @@ aboutList:
     aboutItemTitle: pensar que pones
   - aboutItemDescription: texto texto texto texto texto texto texto texto
     aboutItemTitle: el cuarto
-contactText: >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
-contactEmail: correo@electronico.com
+contactText: >-
+  Aquí debiera ofrecer mis servicios de asesoría de lo que sea, diseño y
+  encargos
+contactEmail: trruco@gmail.com
 ---
 
