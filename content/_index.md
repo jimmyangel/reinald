@@ -37,8 +37,8 @@ aboutText: >-
   cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 aboutList:
-  - aboutItemDescription: texto texto texto texto texto texto texto texto
-    aboutItemTitle: Aun no se que poner aqui
+  - aboutItemDescription: 'Estée, a ver, pues que soy forofo de la madera....'
+    aboutItemTitle: 'Será poner alguna característica mia, sin demasiados detalles'
   - aboutItemDescription: >-
       texto texto texto texto texto texto texto texto texto texto texto texto
       texto texto texto texto texto texto
