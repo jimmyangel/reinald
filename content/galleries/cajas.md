@@ -18,7 +18,7 @@ galleryitems:
     itemImage: galleries-cajas-parabolsitaste2.jpg
     itemName: De té. Divisiones según necesidad
     itemThumb: galleries-cajas-parabolsitaste2-thumb.jpg
-  - itemCaption: 'Madera pino con tapa metacrilato y madera '
+  - itemCaption: Madera pino con tapa metacrilato y madera sapeli
     itemImage: galleries-cajas-parabolsitaste3.jpg
     itemName: De té. Divisiones según necesidad
     itemThumb: galleries-cajas-parabolsitaste3-thumb.jpg
