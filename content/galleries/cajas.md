@@ -4,7 +4,7 @@ label: Cajas
 galleryitems:
   - itemCaption: 'Madera pino con tapa metacrilato. '
     itemImage: galleries-cajas-parabolsitaste.jpg
-    itemName: Guardar té. Divisiones según necesidad
+    itemName: De té. Divisiones según necesidad
     itemThumb: galleries-cajas-parabolsitaste-thumb.jpg
   - itemCaption: Cuadradas y rectangulares
     itemImage: galleries-cajas-congalletas.jpg
