@@ -3,32 +3,32 @@ title: muebles
 label: Muebles
 galleryitems:
   - itemCaption: Madera sapeli y DM. Inicio del ensamblaje
-    itemImage: galleries-portAdornosCircular0.jpg
+    itemImage: galleries-muebles-portAdornosCircular0.jpg
     itemName: 'Expositor '
-    itemThumb: galleries-portAdornosCircular0-thumb.jpg
+    itemThumb: galleries-muebles-portAdornosCircular0-thumb.jpg
   - itemCaption: Ensamblaje listo
-    itemImage: galleries-portAdornosCircular1.jpg
+    itemImage: galleries-muebles-portAdornosCircular1.jpg
     itemName: Expositor
-    itemThumb: galleries-portAdornosCircular1-thumb.jpg
+    itemThumb: galleries-muebles-portAdornosCircular1-thumb.jpg
   - itemCaption: Detalle de uno de los extremos
-    itemImage: galleries-portAdornosCircular2.jpg
+    itemImage: galleries-muebles-portAdornosCircular2.jpg
     itemName: 'Expositor '
-    itemThumb: galleries-portAdornosCircular2-thumb.jpg
+    itemThumb: galleries-muebles-portAdornosCircular2-thumb.jpg
   - itemCaption: Detalle de otro extremo
-    itemImage: galleries-portAdornosCircular3.jpg
+    itemImage: galleries-muebles-portAdornosCircular3.jpg
     itemName: 'Expositor '
-    itemThumb: galleries-portAdornosCircular3-thumb.jpg
+    itemThumb: galleries-muebles-portAdornosCircular3-thumb.jpg
   - itemCaption: Instalado
-    itemImage: galleries-portAdornosCircular4.jpg
+    itemImage: galleries-muebles-portAdornosCircular4.jpg
     itemName: Expositor
-    itemThumb: galleries-portAdornosCircular4-thumb.jpg
+    itemThumb: galleries-muebles-portAdornosCircular4-thumb.jpg
   - itemCaption: 'Aquí está de unificador de pequeños adornos caseros, tan habituales'
-    itemImage: galleries-portAdornosCircular5.jpg
+    itemImage: galleries-muebles-portAdornosCircular5.jpg
     itemName: 'Expositor '
-    itemThumb: galleries-portAdornosCircular5-thumb.jpg
+    itemThumb: galleries-muebles-portAdornosCircular5-thumb.jpg
   - itemCaption: Metacrilato de colores con marco de madera
-    itemImage: galleries-expositorJuguetes.jpg
+    itemImage: galleries-muebles-expositorJuguetes.jpg
     itemName: Expositor de juguetes infantiles
-    itemThumb: galleries-expositorJuguetes-thumb.jpg
+    itemThumb: galleries-muebles-expositorJuguetes-thumb.jpg
 ---
 
