@@ -16,17 +16,17 @@ galleryitems:
     itemImage: galleries-cajas-parabolsitaste3.jpg
     itemName: Para té
     itemThumb: galleries-cajas-parabolsitaste3-thumb.jpg
-  - itemCaption: 'Madera pino con tapa metacrilato y 12 divisiones '
-    itemImage: galleries-cajas-parabolsitaste4.jpg
-    itemName: Para té
-    itemThumb: galleries-cajas-parabolsitaste4-thumb.jpg
-  - itemCaption: Cuadradas y rectangulares
-    itemImage: galleries-cajas-congalletas.jpg
-    itemName: Galleteros
-    itemThumb: galleries-cajas-congalletas-thumb.jpg
   - itemCaption: Metacrilato
     itemImage: galleries-cajas-joyerometacrilato.jpg
     itemName: Joyero
     itemThumb: galleries-cajas-joyerometacrilato-thumb.jpg
+  - itemCaption: Cuadradas y rectangulares
+    itemImage: galleries-cajas-congalletas.jpg
+    itemName: Galleteros
+    itemThumb: galleries-cajas-congalletas-thumb.jpg
+  - itemCaption: 'Madera pino con tapa metacrilato y 12 divisiones '
+    itemImage: galleries-cajas-parabolsitaste4.jpg
+    itemName: Para té
+    itemThumb: galleries-cajas-parabolsitaste4-thumb.jpg
 ---
 
