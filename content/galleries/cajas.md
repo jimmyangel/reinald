@@ -3,9 +3,9 @@ title: cajas
 label: Cajas
 galleryitems:
   - itemCaption: Madera pino con tapa metacrilato. Divisiones según necesidad
-    itemImage: galleries-cajas-parabolsitaste.jpg
+    itemImage: galleries-cajas-parabolsitaste1.jpg
     itemName: Para té
-    itemThumb: galleries-cajas-parabolsitaste-thumb.jpg
+    itemThumb: galleries-cajas-parabolsitaste1-thumb.jpg
   - itemCaption: Cuadradas y rectangulares
     itemImage: galleries-cajas-congalletas.jpg
     itemName: Galleteros
