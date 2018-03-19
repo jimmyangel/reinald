@@ -28,7 +28,7 @@ galleryitems:
     itemThumb: galleries-muebles-portAdornosCircular5-thumb.jpg
   - itemCaption: Metacrilato de colores con marco de madera
     itemImage: galleries-muebles-expositorJuguetes.jpg
-    itemName: Organizador para juguetes infantiles
+    itemName: Organizador de juguetes
     itemThumb: galleries-muebles-expositorJuguetes-thumb.jpg
 ---
 
