@@ -14,11 +14,11 @@ galleryitems:
     itemImage: galleries-muebles-portAdornosCircular2.jpg
     itemName: 'Expositor - Círculo '
     itemThumb: galleries-muebles-portAdornosCircular2-thumb.jpg
-  - itemCaption: Detalle de otro extremo
+  - itemCaption: Detalle de un extremo
     itemImage: galleries-muebles-portAdornosCircular3.jpg
     itemName: Expositor - Círculo
     itemThumb: galleries-muebles-portAdornosCircular3-thumb.jpg
-  - itemCaption: Instalado
+  - itemCaption: Detalle de un extremo
     itemImage: galleries-muebles-portAdornosCircular4.jpg
     itemName: Expositor - Círculo
     itemThumb: galleries-muebles-portAdornosCircular4-thumb.jpg
