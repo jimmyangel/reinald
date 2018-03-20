@@ -22,7 +22,7 @@ galleryitems:
     itemImage: galleries-muebles-portAdornosCircular4.jpg
     itemName: Expositor - Círculo
     itemThumb: galleries-muebles-portAdornosCircular4-thumb.jpg
-  - itemCaption: 'Aquí está de unificador de pequeños adornos caseros, tan habituales'
+  - itemCaption: Funcional y adorno
     itemImage: galleries-muebles-portAdornosCircular5.jpg
     itemName: Expositor - Círculo
     itemThumb: galleries-muebles-portAdornosCircular5-thumb.jpg
