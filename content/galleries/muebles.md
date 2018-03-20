@@ -10,7 +10,7 @@ galleryitems:
     itemImage: galleries-muebles-portAdornosCircular1.jpg
     itemName: Expositor - Círculo
     itemThumb: galleries-muebles-portAdornosCircular1-thumb.jpg
-  - itemCaption: Detalle de uno de los extremos
+  - itemCaption: Detalle de unión entre piezas
     itemImage: galleries-muebles-portAdornosCircular2.jpg
     itemName: 'Expositor - Círculo '
     itemThumb: galleries-muebles-portAdornosCircular2-thumb.jpg
