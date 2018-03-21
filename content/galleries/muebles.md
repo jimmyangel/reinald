@@ -2,7 +2,7 @@
 title: muebles
 label: Muebles
 galleryitems:
-  - itemCaption: Madera sapeli y DM. Inicio del ensamblaje
+  - itemCaption: Madera y DM.  Inicio del ensamblaje
     itemImage: galleries-muebles-portAdornosCircular0.jpg
     itemName: Expositor - Círculo
     itemThumb: galleries-muebles-portAdornosCircular0-thumb.jpg
@@ -30,5 +30,21 @@ galleryitems:
     itemImage: galleries-muebles-expositorJuguetes.jpg
     itemName: Organizador de juguetes
     itemThumb: galleries-muebles-expositorJuguetes-thumb.jpg
+  - itemCaption: Madera y DM
+    itemImage: galleries-muebles-expositorCuadrados1.jpg
+    itemName: Expositor - Juego de cuadrados
+    itemThumb: galleries-muebles-expositorCuadrados1-thumb.jpg
+  - itemCaption: Detalle de uniones
+    itemImage: galleries-muebles-expositorCuadrados2.jpg
+    itemName: Expositor - Juego de cuadrados
+    itemThumb: galleries-muebles-expositorCuadrados2-thumb.jpg
+  - itemCaption: Uniones y fijaciones
+    itemImage: galleries-muebles-expositorCuadrados3.jpg
+    itemName: Expositor - Juego de cuadrados
+    itemThumb: galleries-muebles-expositorCuadrados3-thumb.jpg
+  - itemCaption: Adorno y funcional
+    itemImage: galleries-muebles-expositorCuadrados4.jpg
+    itemName: Expositor - Juego de cuadrados
+    itemThumb: galleries-muebles-expositorCuadrados4-thumb.jpg
 ---
 
