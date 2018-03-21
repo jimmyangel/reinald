@@ -26,10 +26,6 @@ galleryitems:
     itemImage: galleries-muebles-portAdornosCircular5.jpg
     itemName: Expositor - Círculo
     itemThumb: galleries-muebles-portAdornosCircular5-thumb.jpg
-  - itemCaption: Metacrilato de colores con marco de madera
-    itemImage: galleries-muebles-expositorJuguetes.jpg
-    itemName: Organizador de juguetes
-    itemThumb: galleries-muebles-expositorJuguetes-thumb.jpg
   - itemCaption: Madera y DM
     itemImage: galleries-muebles-expositorCuadrados1.jpg
     itemName: Expositor - Juego de cuadrados
@@ -46,5 +42,9 @@ galleryitems:
     itemImage: galleries-muebles-expositorCuadrados4.jpg
     itemName: Expositor - Juego de cuadrados
     itemThumb: galleries-muebles-expositorCuadrados4-thumb.jpg
+  - itemCaption: Metacrilato de colores con marco de madera
+    itemImage: galleries-muebles-expositorJuguetes.jpg
+    itemName: Organizador de juguetes
+    itemThumb: galleries-muebles-expositorJuguetes-thumb.jpg
 ---
 
