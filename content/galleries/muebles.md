@@ -34,14 +34,14 @@ galleryitems:
     itemImage: galleries-muebles-expositorCuadrados2.jpg
     itemName: Expositor - Juego de cuadrados
     itemThumb: galleries-muebles-expositorCuadrados2-thumb.jpg
-  - itemCaption: Uniones y fijaciones
-    itemImage: galleries-muebles-expositorCuadrados3.jpg
-    itemName: Expositor - Juego de cuadrados
-    itemThumb: galleries-muebles-expositorCuadrados3-thumb.jpg
   - itemCaption: Adorno y funcional
     itemImage: galleries-muebles-expositorCuadrados4.jpg
     itemName: Expositor - Juego de cuadrados
     itemThumb: galleries-muebles-expositorCuadrados4-thumb.jpg
+  - itemCaption: Uniones y fijaciones
+    itemImage: galleries-muebles-expositorCuadrados3.jpg
+    itemName: Expositor - Juego de cuadrados
+    itemThumb: galleries-muebles-expositorCuadrados3-thumb.jpg
   - itemCaption: Metacrilato de colores con marco de madera
     itemImage: galleries-muebles-expositorJuguetes.jpg
     itemName: Organizador de juguetes
