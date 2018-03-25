@@ -15,6 +15,8 @@ galleryitems:
     itemName: Bandeja de cuerno de vaca
     itemThumb: galleries-miscelaneas-CachoBlanco-thumb.jpg
   - itemCaption: Rebanada de caracol
+    itemImage: galleries-miscelaneas-rebanadaCaracol.jpg
     itemName: Colgante
+    itemThumb: galleries-miscelaneas-rebanadaCaracol-thumb.jpg
 ---
 
