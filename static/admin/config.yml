@@ -16,7 +16,7 @@ collections:
       - {label: "Gallery Label", name: "label", widget: "string"}
       - {label: "Gallery Items", name: "galleryitems", widget: "list", fields: [
           {label: "Item Name", name: "itemName", widget: "string"},
-          {label: "Item Caption", name: "itemCaption", widget: "string"},
+          {label: "Item Caption", name: "itemCaption", widget: "markdown"},
           {label: "Item Thumbnail", name: "itemThumb", widget: "string"},
           {label: "Item Image", name: "itemImage", widget: "string"}]}
 
