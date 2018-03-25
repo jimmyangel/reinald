@@ -22,7 +22,9 @@ galleryitems:
     itemImage: galleries-cajas-congalletas.jpg
     itemName: Galleteros
     itemThumb: galleries-cajas-congalletas-thumb.jpg
-  - itemCaption: Madera pino y tapa metacrilato con 12 divisiones internas
+  - itemCaption: >-
+      Madera pino y tapa metacrilato                           12 divisiones
+      internas
     itemImage: galleries-cajas-paraTe12.jpg
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-paraTe12-thumb.jpg
