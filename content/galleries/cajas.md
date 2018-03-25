@@ -14,10 +14,6 @@ galleryitems:
     itemImage: galleries-cajas-parabolsitaste3.jpg
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-parabolsitaste3-thumb.jpg
-  - itemCaption: Madera pino y tapa metacrilato  - 12 divisiones internas
-    itemImage: galleries-cajas-paraTe12.jpg
-    itemName: 'Infusiones, ....'
-    itemThumb: galleries-cajas-paraTe12-thumb.jpg
   - itemCaption: Metacrilato
     itemImage: galleries-cajas-joyerometacrilato.jpg
     itemName: Joyero
@@ -26,5 +22,9 @@ galleryitems:
     itemImage: galleries-cajas-congalletas.jpg
     itemName: Galleteros
     itemThumb: galleries-cajas-congalletas-thumb.jpg
+  - itemCaption: Madera pino y tapa metacrilato  - 12 divisiones internas
+    itemImage: galleries-cajas-paraTe12.jpg
+    itemName: 'Infusiones, ....'
+    itemThumb: galleries-cajas-paraTe12-thumb.jpg
 ---
 
