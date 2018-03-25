@@ -18,7 +18,7 @@ galleryitems:
     itemImage: galleries-cajas-joyerometacrilato.jpg
     itemName: Joyero
     itemThumb: galleries-cajas-joyerometacrilato-thumb.jpg
-  - itemCaption: Madera y metacrilato - 23cm x 23cm
+  - itemCaption: Madera y metacrilato - 21 x 21 x 8cm
     itemImage: galleries-cajas-congalletas.jpg
     itemName: Galleteros
     itemThumb: galleries-cajas-congalletas-thumb.jpg
