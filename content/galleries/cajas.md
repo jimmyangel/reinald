@@ -10,9 +10,51 @@ galleryitems:
     itemImage: galleries-cajas-parabolsitaste2.jpg
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-parabolsitaste2-thumb.jpg
-  - itemCaption: |
+  - itemCaption: |-
       Madera pino, tapa metacrilato y madera  
-      6 divisiones internas - 31 x 23 x 8cm  
+      6 divisiones internas - 31 x 23 x 8cm 
+       
+      # h1 Heading 8-)
+      ## h2 Heading
+      ### h3 Heading
+      #### h4 Heading
+      ##### h5 Heading
+      ###### h6 Heading
+
+
+      ## Horizontal Rules
+
+      ___
+
+      ---
+
+      ***
+
+
+      ## Typographic replacements
+
+      Enable typographer option to see result.
+
+      (c) (C) (r) (R) (tm) (TM) (p) (P) +-
+
+      test.. test... test..... test?..... test!....
+
+      !!!!!! ???? ,,  -- ---
+
+      "Smartypants, double quotes" and 'single quotes'
+
+
+      ## Emphasis
+
+      **This is bold text**
+
+      __This is bold text__
+
+      *This is italic text*
+
+      _This is italic text_
+
+      ~~Strikethrough~~
     itemImage: galleries-cajas-parabolsitaste3.jpg
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-parabolsitaste3-thumb.jpg
@@ -29,3 +71,4 @@ galleryitems:
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-paraTe12-thumb.jpg
 ---
+
