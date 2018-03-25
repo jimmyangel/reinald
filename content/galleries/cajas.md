@@ -3,8 +3,8 @@ title: cajas
 label: Cajas
 galleryitems:
   - itemCaption: >-
-      Madera pino y tapa metacrilato          -                                
-      6  divisiones             31x 23 x 8cm
+      Madera pino y tapa metacrilato                      
+      -                                 6  divisiones             31x 23 x 8cm
     itemImage: galleries-cajas-parabolsitaste1.jpg
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-parabolsitaste1-thumb.jpg
