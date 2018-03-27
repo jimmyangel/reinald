@@ -11,10 +11,14 @@ galleryitems:
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-parabolsitaste2-thumb.jpg
   - itemCaption: |-
-      Madera pino, tapa metacrilato y madera\
-      6 divisiones internas - 31 x 23 x 8cm 
+      **Madera** _pino_, tapa metacrilato y madera\
+      6 divisiones internas - 31 x 23 x 8cm  
+
+
 
       _**Ookey, comprendido!! **_
+
+
 
       # h1 Heading
 
