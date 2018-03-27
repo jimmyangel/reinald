@@ -16,10 +16,6 @@ galleryitems:
 
 
 
-      _**Ookey, comprendido!! **_
-
-
-
       # h1 Heading
 
       ## h2 Heading
