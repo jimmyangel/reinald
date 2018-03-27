@@ -74,7 +74,7 @@ galleryitems:
     itemThumb: galleries-cajas-paraTe12-thumb.jpg
   - itemCaption: 'Metacrilato - dimensiones: 6 x 4,5 x 2,5'
     itemImage: galleries-cajas-joyeritometacrilato.jpg
-    itemName: Para presentación de un objeto
+    itemName: 'Presentación '
     itemThumb: galleries-cajas-joyeritometacrilato-thumb.jpg
 ---
 
