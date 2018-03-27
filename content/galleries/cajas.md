@@ -14,7 +14,7 @@ galleryitems:
       Madera pino, tapa metacrilato y madera\
       6 divisiones internas - 31 x 23 x 8cm 
 
-      **_Ookey, comprendido!! _**
+      _**Ookey, comprendido!! **_
 
       # h1 Heading
 
