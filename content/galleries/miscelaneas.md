@@ -4,7 +4,10 @@ label: Miscelaneas
 galleryitems:
   - itemCaption: >-
       Hecho con nuez de coco. Para usos varios: menaje postres, bombonera,
-      portavela, cenicero(en quasi desuso), guardar objetos, ........
+      portavela, cenicero(en quasi desuso), guardar objetos, ........ 
+
+
+      Dimensiones: 13 x 10 x altura 6cm
     itemImage: galleries-miscelaneas-recipientecoco.jpg
     itemName: 'Cuenco '
     itemThumb: galleries-miscelaneas-recipientecoco-thumb.jpg
