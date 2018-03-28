@@ -8,10 +8,13 @@ galleryitems:
     itemThumb: galleries-miscelaneas-recipientecoco-thumb.jpg
   - itemCaption: >-
       Realizado con nuez de coco de la variedad Coco Dorado, de menor dimensión
-      que el coco normal.  Mide: diámetro 4,5cm y altura 4cm
+      que el coco normal.  
 
 
-      Diseño: porta huevo de desayuno.
+      Dimensión: diámetro 4,5cm y altura 4cm
+
+
+      Uso diseñado: porta huevo de desayuno.
     itemImage: galleries-miscelaneas-eierpotjeCoco.jpg
     itemName: 'Pequeño cuenco '
     itemThumb: galleries-miscelaneas-eierpotjeCoco-thumb.jpg
