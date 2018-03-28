@@ -12,9 +12,11 @@ galleryitems:
     itemImage: galleries-miscelaneas-eierpotjeCoco.jpg
     itemName: 'Pequeño cuenco '
     itemThumb: galleries-miscelaneas-eierpotjeCoco-thumb.jpg
-  - itemCaption: 'Portavela, cenicero, ....'
+  - itemCaption: >-
+      Realizado con el cuerno de una vaca. Posibles usos: portavela, cenicero,
+      adorno,  ....
     itemImage: galleries-miscelaneas-CachoBlanco.jpg
-    itemName: Bandeja de cuerno de vaca
+    itemName: 'Bandeja '
     itemThumb: galleries-miscelaneas-CachoBlanco-thumb.jpg
   - itemCaption: Rebanada de caracol
     itemImage: galleries-miscelaneas-rebanadaCaracol.jpg
