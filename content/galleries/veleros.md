@@ -3,9 +3,9 @@ title: veleros
 label: Veleros
 galleryitems:
   - itemCaption: >-
-      Adaptar la embarcación a una nuez de coco ha hecho que el diseño sea muy
-      personal pero está inspirado en el galeón Andalucía, embarcación española
-      de comienzos del siglo XVll
+      Adaptar la embarcación a una nuez de coco hace que el diseño sea muy
+      personal aunque está inspirado en el galeón Andalucía, embarcación
+      española de comienzos del siglo XVll
     itemImage: galleries-veleros-2croquisgaleon1.jpg
     itemName: Galeón VR1
     itemThumb: galleries-veleros-2croquisgaleon1-thumb.jpg
