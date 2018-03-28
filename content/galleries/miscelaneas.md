@@ -2,13 +2,15 @@
 title: miscelaneas
 label: Miscelaneas
 galleryitems:
-  - itemCaption: Para usos infinitos
+  - itemCaption: Hecho con nuez de coco. Para usos infinitos
     itemImage: galleries-miscelaneas-recipientecoco.jpg
-    itemName: Cuenco de nuez de coco
+    itemName: 'Cuenco '
     itemThumb: galleries-miscelaneas-recipientecoco-thumb.jpg
-  - itemCaption: Porta huevo cocido
+  - itemCaption: >-
+      Realizado con una nuez de coco de la variedad Coco Dorado, de menor
+      dimensión que el coco normal. El uso pensado: como porta huevo.
     itemImage: galleries-miscelaneas-eierpotjeCoco.jpg
-    itemName: Cuenco de nuez de coco
+    itemName: 'Pequeño cuenco '
     itemThumb: galleries-miscelaneas-eierpotjeCoco-thumb.jpg
   - itemCaption: 'Portavela, cenicero, ....'
     itemImage: galleries-miscelaneas-CachoBlanco.jpg
