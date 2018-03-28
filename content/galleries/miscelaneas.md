@@ -7,8 +7,11 @@ galleryitems:
     itemName: 'Cuenco '
     itemThumb: galleries-miscelaneas-recipientecoco-thumb.jpg
   - itemCaption: >-
-      Realizado con una nuez de coco de la variedad Coco Dorado, de menor
-      dimensión que el coco normal. El uso pensado: como porta huevo.
+      Realizado con nuez de coco de la variedad Coco Dorado, de menor dimensión
+      que el coco normal. 
+
+
+      Uso pensado: porta huevo de desayuno.
     itemImage: galleries-miscelaneas-eierpotjeCoco.jpg
     itemName: 'Pequeño cuenco '
     itemThumb: galleries-miscelaneas-eierpotjeCoco-thumb.jpg
