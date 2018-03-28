@@ -20,14 +20,14 @@ galleryitems:
     itemThumb: galleries-miscelaneas-rebanadaCaracol-thumb.jpg
   - itemCaption: >-
       El diseño y la dimensión de las piezas las adapté al material que tuve a
-      mano: mangos de escobas. 
-
-
-      Dimensión de las piezas: alturas 4-5-6cm y diametro 2,3cm
+      mano: mangos de escobas.
     itemImage: galleries-miscelaneas-juegoajedrez1.jpg
     itemName: Juego de ajedrez
     itemThumb: galleries-miscelaneas-juegoajedrez1-thumb.jpg
-  - itemCaption: Aquí se puede ver el diseño de cada pieza.
+  - itemCaption: |-
+      Aquí se puede ver el diseño de cada pieza.
+
+      Dimensión de las piezas: alturas 4-5-6cm y diametro 2,3cm
     itemImage: galleries-miscelaneas-juegoajedrez3.jpg
     itemName: Detalle de cada pieza
     itemThumb: galleries-miscelaneas-juegoajedrez3-thumb.jpg
