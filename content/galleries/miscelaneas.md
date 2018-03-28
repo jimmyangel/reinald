@@ -11,7 +11,7 @@ galleryitems:
       que el coco normal. 
 
 
-      Uso pensado: porta huevo de desayuno.
+      Diseño: porta huevo de desayuno.
     itemImage: galleries-miscelaneas-eierpotjeCoco.jpg
     itemName: 'Pequeño cuenco '
     itemThumb: galleries-miscelaneas-eierpotjeCoco-thumb.jpg
