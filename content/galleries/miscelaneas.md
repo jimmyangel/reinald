@@ -18,7 +18,10 @@ galleryitems:
     itemImage: galleries-miscelaneas-CachoBlanco.jpg
     itemName: 'Bandeja '
     itemThumb: galleries-miscelaneas-CachoBlanco-thumb.jpg
-  - itemCaption: Rebanada de caracol
+  - itemCaption: |-
+      La materia prima es un caracol. 
+
+      Esta "rebanada" mide: 5,5 x 2,5cm y 2mm de espesor
     itemImage: galleries-miscelaneas-rebanadaCaracol.jpg
     itemName: Colgante
     itemThumb: galleries-miscelaneas-rebanadaCaracol-thumb.jpg
