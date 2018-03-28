@@ -8,7 +8,7 @@ galleryitems:
     itemThumb: galleries-miscelaneas-recipientecoco-thumb.jpg
   - itemCaption: >-
       Realizado con nuez de coco de la variedad Coco Dorado, de menor dimensión
-      que el coco normal. 
+      que el coco normal.  Mide: diámetro 4,5cm y altura 4cm
 
 
       Diseño: porta huevo de desayuno.
@@ -22,7 +22,7 @@ galleryitems:
     itemName: 'Bandeja '
     itemThumb: galleries-miscelaneas-CachoBlanco-thumb.jpg
   - itemCaption: |-
-      La materia prima es un caracol. 
+      La materia prima: concha marina. 
 
       Esta "rebanada" mide: 5,5 x 2,5cm y 2mm de espesor
     itemImage: galleries-miscelaneas-rebanadaCaracol.jpg
