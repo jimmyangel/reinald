@@ -25,9 +25,9 @@ galleryitems:
     itemName: 'Bandeja '
     itemThumb: galleries-miscelaneas-CachoBlanco-thumb.jpg
   - itemCaption: |-
-      La materia prima: concha marina. 
+      Materia prima: concha marina. 
 
-      Esta "rebanada" mide: 5,5 x 2,5cm y 2mm de espesor
+       Dimensión de la "rodaja": 5,5 x 2,5cm y 2mm de espesor
     itemImage: galleries-miscelaneas-rebanadaCaracol.jpg
     itemName: Colgante
     itemThumb: galleries-miscelaneas-rebanadaCaracol-thumb.jpg
