@@ -2,7 +2,9 @@
 title: miscelaneas
 label: Miscelaneas
 galleryitems:
-  - itemCaption: Hecho con nuez de coco. Para usos infinitos
+  - itemCaption: >-
+      Hecho con nuez de coco. Para usos varios: menaje postres, bombonera,
+      portavela, cenicero(en quasi desuso), guardar objetos, ........
     itemImage: galleries-miscelaneas-recipientecoco.jpg
     itemName: 'Cuenco '
     itemThumb: galleries-miscelaneas-recipientecoco-thumb.jpg
@@ -21,6 +23,9 @@ galleryitems:
   - itemCaption: >-
       Realizado con el cuerno de una vaca. Posibles usos: portavela, cenicero,
       adorno,  ....
+
+
+      Dimensión: 15 x 4cm y altura 2cm
     itemImage: galleries-miscelaneas-CachoBlanco.jpg
     itemName: 'Bandeja '
     itemThumb: galleries-miscelaneas-CachoBlanco-thumb.jpg
