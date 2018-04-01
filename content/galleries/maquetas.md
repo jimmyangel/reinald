@@ -20,11 +20,11 @@ galleryitems:
     itemThumb: galleries-maquetas-losanaucos-thumb.jpg
   - itemCaption: 'Plástico pintado.  Escala 1:200'
     itemImage: galleries-maquetas-pradosdeleste1.jpg
-    itemName: Maqueta publicitaria - Vivienda unifamiliar
+    itemName: Vivienda unifamiliar - Maqueta publicitaria
     itemThumb: galleries-maquetas-pradosdeleste1-thumb.jpg
   - itemCaption: ' Plástico pintado.  Escala 1:200'
     itemImage: galleries-maquetas-pradosdeleste2.jpg
-    itemName: 'Maqueta publicitarias   Escala 1:200'
+    itemName: 'Vivienda unifamiliar - Maqueta publicitaria '
     itemThumb: galleries-maquetas-pradosdeleste2-thumb.jpg
 ---
 
