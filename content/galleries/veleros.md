@@ -16,8 +16,9 @@ galleryitems:
     itemImage: galleries-veleros-2croquisgaleon1.jpg
     itemName: Galeón VR1
     itemThumb: galleries-veleros-2croquisgaleon1-thumb.jpg
-  - itemCaption: No puede ser blanco
+  - itemCaption: 'La nuez de un coco es el inicio, el cual hace de casco de este velero.'
     itemImage: galleries-veleros-2Nao1.jpg
     itemName: Nao VR1
     itemThumb: galleries-veleros-2Nao1-thumb.jpg
 ---
+
