@@ -12,13 +12,13 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Gallery Key", name: "title", widget: "string"}
-      - {label: "Gallery Label", name: "label", widget: "string"}
+      - {label: "Gallery Key", name: "title", required: true, widget: "string"}
+      - {label: "Gallery Label", name: "label", required: true, widget: "string"}
       - {label: "Gallery Items", name: "galleryitems", widget: "list", fields: [
-          {label: "Item Name", name: "itemName", widget: "string"},
-          {label: "Item Caption", name: "itemCaption", widget: "markdown"},
-          {label: "Item Thumbnail", name: "itemThumb", widget: "string"},
-          {label: "Item Image", name: "itemImage", widget: "string"}]}
+          {label: "Item Name", name: "itemName", required: true, widget: "string"},
+          {label: "Item Caption", name: "itemCaption", required: true, widget: "markdown"},
+          {label: "Item Thumbnail", name: "itemThumb", required: true, widget: "string"},
+          {label: "Item Image", name: "itemImage", required: true, widget: "string"}]}
 
   - name: "pages"
     label: "pages"
