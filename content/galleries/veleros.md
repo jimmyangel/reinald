@@ -16,5 +16,8 @@ galleryitems:
     itemImage: galleries-veleros-2croquisgaleon1.jpg
     itemName: Galeón VR1
     itemThumb: galleries-veleros-2croquisgaleon1-thumb.jpg
+  - itemImage: galleries-veleros-2Nao1.jpg
+    itemName: Nao VR1
+    itemThumb: galleries-veleros-2Nao1-thumb.jpg
 ---
 
