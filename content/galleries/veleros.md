@@ -20,5 +20,9 @@ galleryitems:
     itemImage: galleries-veleros-2Nao1.jpg
     itemName: Nao VR1
     itemThumb: galleries-veleros-2Nao1-thumb.jpg
+  - itemCaption: Proa y popa
+    itemImage: galleries-veleros-3Nao1proapopa.jpg
+    itemName: Nao VR1
+    itemThumb: galleries-veleros-3Nao1proapopa-thumb.jpg
 ---
 
