@@ -9,13 +9,6 @@ galleryitems:
     itemImage: galleries-veleros-1croquisNao1.jpg
     itemName: Nao VR1
     itemThumb: galleries-veleros-1croquisNao1-thumb.jpg
-  - itemCaption: >-
-      Adaptar la embarcación a una nuez de coco hace que el diseño sea muy
-      personal aunque está inspirado en el galeón Andalucía, embarcación
-      española de comienzos del siglo XVll
-    itemImage: galleries-veleros-2croquisgaleon1.jpg
-    itemName: Galeón VR1
-    itemThumb: galleries-veleros-2croquisgaleon1-thumb.jpg
   - itemCaption: 'La nuez de un coco es el inicio, el cual hace de casco de este velero.'
     itemImage: galleries-veleros-2Nao1.jpg
     itemName: Nao VR1
@@ -24,5 +17,12 @@ galleryitems:
     itemImage: galleries-veleros-3Nao1proapopa.jpg
     itemName: Nao VR1
     itemThumb: galleries-veleros-3Nao1proapopa-thumb.jpg
+  - itemCaption: >-
+      Adaptar la embarcación a una nuez de coco hace que el diseño sea muy
+      personal aunque está inspirado en el galeón Andalucía, embarcación
+      española de comienzos del siglo XVll
+    itemImage: galleries-veleros-2croquisgaleon1.jpg
+    itemName: Galeón VR1
+    itemThumb: galleries-veleros-2croquisgaleon1-thumb.jpg
 ---
 
