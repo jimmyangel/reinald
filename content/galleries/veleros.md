@@ -17,6 +17,10 @@ galleryitems:
     itemImage: galleries-veleros-3Nao1proapopa.jpg
     itemName: Nao VR1
     itemThumb: galleries-veleros-3Nao1proapopa-thumb.jpg
+  - itemCaption: Fases de ejecución y detalles
+    itemImage: galleries-veleros-Nao1collage.jpg
+    itemName: Nao VR1
+    itemThumb: galleries-veleros-Nao1collage-thumb.jpg
   - itemCaption: >-
       Adaptar la embarcación a una nuez de coco hace que el diseño sea muy
       personal aunque está inspirado en el galeón Andalucía, embarcación
@@ -24,9 +28,5 @@ galleryitems:
     itemImage: galleries-veleros-2croquisgaleon1.jpg
     itemName: Galeón VR1
     itemThumb: galleries-veleros-2croquisgaleon1-thumb.jpg
-  - itemCaption: Fases de ejecución y detalles
-    itemImage: galleries-veleros-Nao1collage.jpg
-    itemName: Nao VR1
-    itemThumb: galleries-veleros-Nao1collage-thumb.jpg
 ---
 
