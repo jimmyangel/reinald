@@ -26,7 +26,7 @@ galleryitems:
       personal aunque está inspirado en el galeón Andalucía, embarcación
       española de comienzos del siglo XVll
     itemImage: galleries-veleros-2croquisgaleon1.jpg
-    itemName: Galeón VR1
+    itemName: Galeón VR2
     itemThumb: galleries-veleros-2croquisgaleon1-thumb.jpg
 ---
 
