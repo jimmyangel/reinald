@@ -24,5 +24,9 @@ galleryitems:
     itemImage: galleries-veleros-2croquisgaleon1.jpg
     itemName: Galeón VR1
     itemThumb: galleries-veleros-2croquisgaleon1-thumb.jpg
+  - itemCaption: Fases de ejecución y detalles
+    itemImage: galleries-veleros-Nao1collage.jpg
+    itemName: Nao VR1
+    itemThumb: galleries-veleros-Nao1collage-thumb.jpg
 ---
 
