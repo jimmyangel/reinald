@@ -31,13 +31,6 @@ galleryitems:
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-parabolsitaste3-thumb.jpg
   - itemCaption: |-
-      Metacrilato  -  Dimensión: 23 x 15 x 6cm
-
-      Caja y tapa sin sujeciones exteriores
-    itemImage: galleries-cajas-joyerometacrilato.jpg
-    itemName: Joyero
-    itemThumb: galleries-cajas-joyerometacrilato-thumb.jpg
-  - itemCaption: |-
       Madera y metacrilato 
 
       Dimensiones: 21 x 21 x 8cm
@@ -65,5 +58,12 @@ galleryitems:
     itemImage: galleries-cajas-joyeritometacrilato.jpg
     itemName: Caja de presentación
     itemThumb: galleries-cajas-joyeritometacrilato-thumb.jpg
+  - itemCaption: |-
+      Metacrilato  -  Dimensión: 23 x 15 x 6cm
+
+      Caja y tapa sin sujeciones exteriores
+    itemImage: galleries-cajas-joyerometacrilato.jpg
+    itemName: Joyero
+    itemThumb: galleries-cajas-joyerometacrilato-thumb.jpg
 ---
 
