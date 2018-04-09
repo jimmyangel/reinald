@@ -44,7 +44,7 @@ galleryitems:
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-1paraTe16-thumb.jpg
   - itemCaption: |-
-       16 subdivisiones internas.
+      16 subdivisiones internas.
 
       Modificables para adaptar a otros usos.
     itemImage: galleries-cajas-2paraTe16.jpg
