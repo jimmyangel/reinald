@@ -38,19 +38,19 @@ galleryitems:
     itemName: Caja para obsequios
     itemThumb: galleries-cajas-congalletas-thumb.jpg
   - itemCaption: |-
-      Madera pino y tapa metacrilato.  
-
-      Dimensiones - 38 x 38 x 8cm
-    itemImage: galleries-cajas-1paraTe16.jpg
-    itemName: 'Infusiones, ....'
-    itemThumb: galleries-cajas-1paraTe16-thumb.jpg
-  - itemCaption: |-
       16 subdivisiones internas.
 
       Modificables para adaptar a otros usos.
     itemImage: galleries-cajas-2paraTe16.jpg
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-2paraTe16-thumb.jpg
+  - itemCaption: |-
+      Madera pino y tapa metacrilato.  
+
+      Dimensiones - 38 x 38 x 8cm
+    itemImage: galleries-cajas-1paraTe16.jpg
+    itemName: 'Infusiones, ....'
+    itemThumb: galleries-cajas-1paraTe16-thumb.jpg
   - itemCaption: |-
       Metacrilato. Colores para elegir 
 
