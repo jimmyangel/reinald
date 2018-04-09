@@ -32,7 +32,7 @@ galleryitems:
   - itemCaption: |-
       Galletas, bombones, dulces, ...
 
-      Madera y metacrilato - Diemsión: 21 x 21 x 8cm
+      Madera, metacrilato - Dimensión: 21 x 21 x 8cm
     itemImage: galleries-cajas-congalletas.jpg
     itemName: Caja para obsequios
     itemThumb: galleries-cajas-congalletas-thumb.jpg
