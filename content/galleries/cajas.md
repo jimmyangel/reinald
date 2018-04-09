@@ -31,7 +31,7 @@ galleryitems:
   - itemCaption: |-
 
 
-      16 divisiones internas - dimensiones: 6 x 4,5 x 2,5
+       16 subdivisiones internas
     itemImage: galleries-cajas-2paraTe16.jpg
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-2paraTe16-thumb.jpg
