@@ -16,16 +16,22 @@ galleryitems:
     itemImage: galleries-cajas-parabolsitaste3.jpg
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-parabolsitaste3-thumb.jpg
-  - itemCaption: Metacrilato - 23 x 15 x 6cm
+  - itemCaption: |-
+      Metacrilato  -  Dimensión: 23 x 15 x 6cm
+
+      Caja y tapa sin sujeciones exteriores
     itemImage: galleries-cajas-joyerometacrilato.jpg
     itemName: Joyero
     itemThumb: galleries-cajas-joyerometacrilato-thumb.jpg
-  - itemCaption: Madera y metacrilato - 21 x 21 x 8cm
+  - itemCaption: |-
+      Galletas, bombones, dulces, ...
+
+      Madera y metacrilato - Diemsión: 21 x 21 x 8cm
     itemImage: galleries-cajas-congalletas.jpg
-    itemName: Galleteros
+    itemName: Caja para obsequios
     itemThumb: galleries-cajas-congalletas-thumb.jpg
   - itemCaption: |-
-      Madera pino y tapa metacrilato 
+      Madera pino y tapa metacrilato.  
 
       Dimensiones - 38 x 38 x 8cm
     itemImage: galleries-cajas-1paraTe16.jpg
@@ -34,13 +40,18 @@ galleryitems:
   - itemCaption: |-
 
 
-       16 subdivisiones internas
+       16 subdivisiones internas.
+
+      Modificables para adaptar a otros usos.
     itemImage: galleries-cajas-2paraTe16.jpg
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-2paraTe16-thumb.jpg
-  - itemCaption: 'Metacrilato - dimensiones: 6 x 4,5 x 2,5'
+  - itemCaption: |-
+      Metacrilato. Colores para elegir 
+
+      Dimensiones: 6 x 4,5 x 2,5cm
     itemImage: galleries-cajas-joyeritometacrilato.jpg
-    itemName: 'Para presentación, detalles, ....'
+    itemName: Caja de presentación
     itemThumb: galleries-cajas-joyeritometacrilato-thumb.jpg
 ---
 
