@@ -2,16 +2,22 @@
 title: cajas
 label: Cajas
 galleryitems:
-  - itemCaption: Madera pino y tapa metacrilato - **6** x divisiones  -  31 x 23 x 8cm
+  - itemCaption: |-
+      Madera pino y tapa metacrilato - 6 x divisiones   
+
+      Dimensión: 31 x 23 x 8cm
     itemImage: galleries-cajas-parabolsitaste1.jpg
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-parabolsitaste1-thumb.jpg
-  - itemCaption: Madera pino y tapa metacrilato  -  6 divisiones internas - 31 x 23 x 8cm
+  - itemCaption: |-
+      Madera pino y tapa metacrilato  -  6 divisiones internas 
+
+      Dimensión: 31 x 23 x 8cm
     itemImage: galleries-cajas-parabolsitaste2.jpg
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-parabolsitaste2-thumb.jpg
   - itemCaption: |-
-      **Madera** _pino_, tapa metacrilato y madera\
+      Madera pino, tapa metacrilato y madera\
       6 divisiones internas - 31 x 23 x 8cm
     itemImage: galleries-cajas-parabolsitaste3.jpg
     itemName: 'Infusiones, ....'
