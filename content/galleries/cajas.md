@@ -2,11 +2,8 @@
 title: cajas
 label: Cajas
 galleryitems:
-  - itemCaption: >-
-      Madera pino y tapa
-      metacrilato                                                                 
-      6 divisiones internas   
-
+  - itemCaption: |2-
+       Madera pino y tapa metacrilato                                                                  6 divisiones internas   
 
       Dimensiones: 31 x 23 x 8cm
     itemImage: galleries-cajas-parabolsitaste1.jpg
