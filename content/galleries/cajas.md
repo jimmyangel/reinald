@@ -24,11 +24,14 @@ galleryitems:
     itemImage: galleries-cajas-congalletas.jpg
     itemName: Galleteros
     itemThumb: galleries-cajas-congalletas-thumb.jpg
-  - itemCaption: Madera pino y tapa metacrilato  - 16 divisiones internas - 38 x 38 x 8cm
+  - itemCaption: Madera pino y tapa metacrilato   - 38 x 38 x 8cm
     itemImage: galleries-cajas-1paraTe16.jpg
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-1paraTe16-thumb.jpg
-  - itemCaption: Tapa de metacrilato y madera
+  - itemCaption: |-
+
+
+      16 divisiones internas - dimensiones: 6 x 4,5 x 2,5
     itemImage: galleries-cajas-2paraTe16.jpg
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-2paraTe16-thumb.jpg
