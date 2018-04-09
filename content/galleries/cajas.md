@@ -38,9 +38,9 @@ galleryitems:
     itemName: Joyero
     itemThumb: galleries-cajas-joyerometacrilato-thumb.jpg
   - itemCaption: |-
-      Galletas, bombones, dulces, ...
+      Madera y metacrilato 
 
-      Madera, metacrilato - Dimensión: 21 x 21 x 8cm
+      Dimensiones: 21 x 21 x 8cm
     itemImage: galleries-cajas-congalletas.jpg
     itemName: Caja para obsequios
     itemThumb: galleries-cajas-congalletas-thumb.jpg
