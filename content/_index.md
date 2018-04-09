@@ -46,7 +46,7 @@ aboutList:
   - aboutItemDescription: texto texto texto texto texto texto texto texto
     aboutItemTitle: pensar que pones
   - aboutItemDescription: texto texto texto texto texto texto texto texto
-    aboutItemTitle: el cuarto
+    aboutItemTitle: Forofo de la madera
 contactText: >-
   Aquí debiera ofrecer mis servicios de asesoría de lo que sea, diseño y
   encargos
