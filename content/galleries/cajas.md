@@ -28,13 +28,13 @@ galleryitems:
     itemImage: galleries-cajas-1paraTe16.jpg
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-1paraTe16-thumb.jpg
-  - itemCaption: 'Metacrilato - dimensiones: 6 x 4,5 x 2,5'
-    itemImage: galleries-cajas-joyeritometacrilato.jpg
-    itemName: 'Para presentación, detalles, ....'
-    itemThumb: galleries-cajas-joyeritometacrilato-thumb.jpg
   - itemCaption: Tapa de metacrilato y madera
     itemImage: galleries-cajas-2paraTe16.jpg
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-2paraTe16-thumb.jpg
+  - itemCaption: 'Metacrilato - dimensiones: 6 x 4,5 x 2,5'
+    itemImage: galleries-cajas-joyeritometacrilato.jpg
+    itemName: 'Para presentación, detalles, ....'
+    itemThumb: galleries-cajas-joyeritometacrilato-thumb.jpg
 ---
 
