@@ -52,5 +52,9 @@ galleryitems:
     itemImage: galleries-miscelaneas-3juegoajedrez.jpg
     itemName: Juego de ajedrez
     itemThumb: galleries-miscelaneas-3juegoajedrez-thumb.jpg
+  - itemCaption: 'Dimensiones aproximadas: 15 x 7cm'
+    itemImage: galleries-miscelaneas-CaracolCortado.jpg
+    itemName: Estructura interior de un caracol
+    itemThumb: galleries-miscelaneas-CaracolCortado-thumb.jpg
 ---
 
