@@ -54,7 +54,7 @@ galleryitems:
     itemThumb: galleries-miscelaneas-3juegoajedrez-thumb.jpg
   - itemCaption: 'Dimensiones aproximadas: 15 x 7cm'
     itemImage: galleries-miscelaneas-CaracolCortado.jpg
-    itemName: Estructura interior de un caracol
+    itemName: Estructura interior de una concha marina
     itemThumb: galleries-miscelaneas-CaracolCortado-thumb.jpg
 ---
 
