@@ -65,5 +65,12 @@ galleryitems:
     itemImage: galleries-cajas-joyerometacrilato.jpg
     itemName: Joyero
     itemThumb: galleries-cajas-joyerometacrilato-thumb.jpg
+  - itemCaption: |-
+      Madera MDF y tapa metacrilato.  
+
+      Dimensiones: 7,00 x 7,00 x 2,00cm
+    itemImage: galleries-cajas-prendedor33.jpg
+    itemName: Caja de presentación
+    itemThumb: galleries-cajas-prendedor33-thumb.jpg
 ---
 
