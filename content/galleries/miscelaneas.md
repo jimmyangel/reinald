@@ -30,7 +30,7 @@ galleryitems:
 
       Dimensión: 15 x 4cm y altura 2cm
     itemImage: galleries-miscelaneas-CachoBlanco.jpg
-    itemName: 'Bandeja '
+    itemName: Cuenco plano
     itemThumb: galleries-miscelaneas-CachoBlanco-thumb.jpg
   - itemCaption: |-
       Materia prima: concha marina. 
