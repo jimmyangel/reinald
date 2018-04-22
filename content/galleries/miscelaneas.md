@@ -26,7 +26,7 @@ galleryitems:
   - itemCaption: >-
       Realizado con cuerno de
       vaca.                                                                 
-      Usos: portavela, cenicero, ....
+      Usos: portavela, cenicero, ....   
 
 
       Dimensión: 15 x 4cm y altura 2cm
