@@ -25,7 +25,7 @@ galleryitems:
     itemThumb: galleries-miscelaneas-eierpotjeCoco-thumb.jpg
   - itemCaption: >-
       Realizado con cuerno de
-      vaca.                                                              Usos:
+      vaca.                                                                Usos:
       portavela, cenicero, ....
 
 
