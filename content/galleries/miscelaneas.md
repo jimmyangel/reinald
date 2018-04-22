@@ -53,7 +53,12 @@ galleryitems:
     itemImage: galleries-miscelaneas-3juegoajedrez.jpg
     itemName: Juego de ajedrez
     itemThumb: galleries-miscelaneas-3juegoajedrez-thumb.jpg
-  - itemCaption: 'Dimensiones aproximadas: 15 x 7cm'
+  - itemCaption: >-
+      Dimensiones aproximadas: 15 x 7cm
+
+
+      Las conchas marinas son de paredes delgadas; resistentes y delicadas.
+      Permiten el paso de la luz como muestro aquí.
     itemImage: galleries-miscelaneas-CaracolCortado.jpg
     itemName: Estructura interior de una concha marina
     itemThumb: galleries-miscelaneas-CaracolCortado-thumb.jpg
