@@ -24,7 +24,7 @@ galleryitems:
     itemName: 'Pequeño cuenco '
     itemThumb: galleries-miscelaneas-eierpotjeCoco-thumb.jpg
   - itemCaption: >-
-      Realizado con cuerno de vaca. Posibles usos: portavela, cenicero, adorno, 
+      Realizado con cuerno de vaca.      Usos: portavela, cenicero, adorno, 
       ....
 
 
