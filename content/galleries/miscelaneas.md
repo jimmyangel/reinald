@@ -3,7 +3,7 @@ title: miscelaneas
 label: Miscelaneas
 galleryitems:
   - itemCaption: >-
-      Hecho con nuez de coco. Para usos varios: menaje postres, bombonera,
+      Realizado con nuez de coco. Para usos varios: menaje postres, bombonera,
       portavela, cenicero(en quasi desuso), guardar objetos, ........ 
 
 
