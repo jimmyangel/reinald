@@ -61,7 +61,7 @@ galleryitems:
 
        Dimensión: 5,00 x 3,00cm y 0,50mm espesor
     itemImage: galleries-miscelaneas-33aniversario.jpg
-    itemName: Prendedor
+    itemName: Prendedor 33aniversario
     itemThumb: galleries-miscelaneas-33aniversario-thumb.jpg
 ---
 
