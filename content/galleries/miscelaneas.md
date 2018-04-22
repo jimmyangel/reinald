@@ -3,8 +3,8 @@ title: miscelaneas
 label: Miscelaneas
 galleryitems:
   - itemCaption: >-
-      Realizado con nuez de coco. Para usos varios: menaje postres, bombonera,
-      portavela, cenicero(en quasi desuso), guardar objetos, ........ 
+      Realizado con nuez de coco. Usos variados: menaje cocina, bombonera,
+      portavela, cenicero, almacenaje pequeños objetos, ........ 
 
 
       Dimensiones: 13 x 10 x altura 6cm
