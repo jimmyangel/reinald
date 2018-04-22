@@ -19,7 +19,7 @@ galleryitems:
       Dimensión: diámetro 4,5cm y altura 4cm
 
 
-      Uso diseñado: porta huevo de desayuno.
+      Uso diseñado: porta huevo desayuno.
     itemImage: galleries-miscelaneas-eierpotjeCoco.jpg
     itemName: 'Pequeño cuenco '
     itemThumb: galleries-miscelaneas-eierpotjeCoco-thumb.jpg
