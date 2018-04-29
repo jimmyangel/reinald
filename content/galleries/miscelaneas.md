@@ -41,19 +41,6 @@ galleryitems:
     itemName: Colgante
     itemThumb: galleries-miscelaneas-rebanadaCaracol-thumb.jpg
   - itemCaption: >-
-      El diseño y la dimensión de las piezas las adapté al material que tuve a
-      mano: mangos de escobas.
-    itemImage: galleries-miscelaneas-1juegoajedrez.jpg
-    itemName: Juego de ajedrez
-    itemThumb: galleries-miscelaneas-1juegoajedrez-thumb.jpg
-  - itemCaption: |-
-      Aquí el diseño de cada pieza.
-
-      Dimensión de las piezas: alturas 4-5-6cm y diametro 2,3cm
-    itemImage: galleries-miscelaneas-3juegoajedrez.jpg
-    itemName: Juego de ajedrez
-    itemThumb: galleries-miscelaneas-3juegoajedrez-thumb.jpg
-  - itemCaption: >-
       Dimensiones aproximadas: 15 x 7cm
 
 
@@ -71,5 +58,14 @@ galleryitems:
     itemImage: galleries-miscelaneas-33aniversario.jpg
     itemName: 'Prendedor '
     itemThumb: galleries-miscelaneas-33aniversario-thumb.jpg
+  - itemCaption: >-
+      El diseño y la dimensión de las piezas las adapté al material que tuve a
+      mano: mangos de escobas.
+
+
+      Dimensión de las piezas: alturas 4-5-6cm y diametro 2,3cm
+    itemImage: galleries-miscelaneas-juegoajedrez.jpg
+    itemName: Juego de ajedrez
+    itemThumb: galleries-miscelaneas-juegoajedrez-thumb-thumb.jpg
 ---
 
