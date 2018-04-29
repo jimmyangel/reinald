@@ -66,6 +66,6 @@ galleryitems:
       Dimensión de las piezas: alturas 4-5-6cm y diametro 2,3cm
     itemImage: galleries-miscelaneas-juegoajedrez.jpg
     itemName: Juego de ajedrez
-    itemThumb: galleries-miscelaneas-juegoajedrez-thumb-thumb.jpg
+    itemThumb: galleries-miscelaneas-juegoajedrez-thumb.jpg
 ---
 
