@@ -80,6 +80,8 @@ galleryitems:
       Dimensión de la piedra: aprox. 16mm x 12mm
 
       El alto relieve de las letras en la piedra tallado con punta de diamante.
+    itemImage: galleries-miscelaneas-colganteRMpiedra.jpg
     itemName: Colgante
+    itemThumb: galleries-miscelaneas-colganteRMpiedra-thumb.jpg
 ---
 
