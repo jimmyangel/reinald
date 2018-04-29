@@ -63,7 +63,12 @@ galleryitems:
       mano: mangos de escobas.
 
 
-      Dimensión de las piezas: alturas 4-5-6cm y diametro 2,3cm
+      El tablero es de metacrilato con dos colores dispuesto en dos capas.
+
+
+      Dimensión de las
+      piezas:                                                                     
+      alturas variables de 4-5-6cm y Ø2,30cm
     itemImage: galleries-miscelaneas-juegoajedrez.jpg
     itemName: Juego de ajedrez
     itemThumb: galleries-miscelaneas-juegoajedrez-thumb.jpg
