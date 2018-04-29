@@ -72,5 +72,14 @@ galleryitems:
     itemImage: galleries-miscelaneas-juegoajedrez.jpg
     itemName: Juego de ajedrez
     itemThumb: galleries-miscelaneas-juegoajedrez-thumb.jpg
+  - itemCaption: |-
+      Material: piedra playa y un trozo de rama de madera 
+
+       Dimensión de la rama: altura 5,00cm y Ø 2,50cm
+
+      Dimensión de la piedra: aprox. 16mm x 12mm
+
+      El alto relieve de las letras en la piedra tallado con punta de diamante.
+    itemName: Colgante
 ---
 
