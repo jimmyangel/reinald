@@ -9,7 +9,9 @@ galleryitems:
     itemImage: galleries-veleros-1croquisNao1.jpg
     itemName: Nao VR1
     itemThumb: galleries-veleros-1croquisNao1-thumb.jpg
-  - itemCaption: 'La nuez de un coco es el inicio, el cual hace de casco de este velero.'
+  - itemCaption: >-
+      Inicio la maqueta con la nuez de un coco, el cual hace las veces de casco
+      de esta embarcación.
     itemImage: galleries-veleros-2Nao1.jpg
     itemName: Nao VR1
     itemThumb: galleries-veleros-2Nao1-thumb.jpg
