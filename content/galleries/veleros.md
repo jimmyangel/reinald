@@ -28,5 +28,19 @@ galleryitems:
     itemImage: galleries-veleros-2croquisgaleon1.jpg
     itemName: Galeón VR2
     itemThumb: galleries-veleros-2croquisgaleon1-thumb.jpg
+  - itemCaption: >-
+      Dimensiones: eslora 68cm, manga 17cm, altura 52cm
+
+
+      Maqueta de la goleta Albatros; construida en EEUU, en los astilleros de
+      Baltimore en el año 1840; armada a partir de un kit de modelismo
+      naval.                                                                                                 
+      Realicé esta maqueta a mis 11 años.
+
+
+      Escala 1:55
+    itemImage: galleries-veleros-albatros.jpg
+    itemName: Goleta Albatros
+    itemThumb: galleries-veleros-albatros-thumb.jpg
 ---
 
