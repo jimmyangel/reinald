@@ -28,7 +28,7 @@ galleryitems:
 
       Plástico, escala 1:200
     itemImage: galleries-maquetas-losanaucos.jpg
-    itemName: 'Maqueta                            '
+    itemName: 'Maqueta de presentación '
     itemThumb: galleries-maquetas-losanaucos-thumb.jpg
   - itemCaption: |-
       Vivienda unifamiliar en Caracas
