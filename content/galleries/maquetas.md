@@ -44,10 +44,6 @@ galleryitems:
     itemImage: galleries-maquetas-pradosdeleste2.jpg
     itemName: 'Maqueta publicitaria '
     itemThumb: galleries-maquetas-pradosdeleste2-thumb.jpg
-  - itemCaption: 'Escala 1:200'
-    itemImage: galleries-maquetas-tesisgradoMila2.jpg
-    itemName: Maqueta Proyecto de Grado
-    itemThumb: galleries-maquetas-tesisgradoMila2-thumb.jpg
   - itemCaption: "La maqueta fue realizada para la presentación de un Proyecto de Grado de una estudiante de arquitectura de la USB-Venezuela en el año 1981\r\n\n\r\n\nCartón de varios espesores\r\n\n\r\n\nEscala 1:200"
     itemImage: galleries-maquetas-tesisgradoMila.jpg
     itemName: Maqueta para Proyecto de Grado
