@@ -64,5 +64,17 @@ galleryitems:
     itemImage: galleries-maquetas-tesisgradoMila1.jpg
     itemName: Maqueta Proyecto de Grado
     itemThumb: galleries-maquetas-tesisgradoMila1-thumb.jpg
+  - itemCaption: >-
+      La maqueta fue realizada para la presentación de un Proyecto de Grado de
+      una estudiante de arquitectura de la USB-Venezuela en el año 1981
+
+
+      Cartón básico de varios espesores
+
+
+      Escala 1:200
+    itemImage: galleries-maquetas-tesisgradoMila.jpg
+    itemName: Maqueta para Proyecto de Grado
+    itemThumb: galleries-maquetas-tesisgradoMila-thumb.jpg
 ---
 
