@@ -8,9 +8,9 @@ galleryitems:
       Realizada en plástico y pintura acrílica.   
 
       Escala 1:50
-    itemImage: galleries-maquetas-tribuna prefabricada.jpg
+    itemImage: galleries-maquetas-tribunaprefabricada.jpg
     itemName: Maqueta publicitaria
-    itemThumb: galleries-maquetas-tribuna prefabricada-thumb.jpg
+    itemThumb: galleries-maquetas-tribunaprefabricada-thumb.jpg
   - itemCaption: >-
       La maqueta fue realizada para la presentación del proyecto de arquitectura
       de una estudiante de la Universidad Simón Bolivar-Venezuela.
