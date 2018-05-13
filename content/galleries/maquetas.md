@@ -3,15 +3,6 @@ title: maquetas
 label: Maquetas
 galleryitems:
   - itemCaption: |-
-      Tribuna prefabricada.
-
-      Realizada en plástico y pintura acrílica.   
-
-      Escala 1:50
-    itemImage: galleries-maquetas-tribuna prefabricada.jpg
-    itemName: Maqueta publicitaria
-    itemThumb: galleries-maquetas-tribuna prefabricada-thumb.jpg
-  - itemCaption: |-
       Vivienda unifamiliar 
 
       Plástico, escala 1:200
@@ -44,5 +35,14 @@ galleryitems:
     itemImage: galleries-maquetas-tesisgradoMila.jpg
     itemName: Maqueta para Proyecto de Grado
     itemThumb: galleries-maquetas-tesisgradoMila-thumb.jpg
+  - itemCaption: |-
+      Tribuna prefabricada.
+
+      Realizada en plástico y pintura acrílica.   
+
+      Escala 1:50
+    itemImage: galleries-maquetas-tribuna prefabricada.jpg
+    itemName: Maqueta publicitaria
+    itemThumb: galleries-maquetas-tribuna prefabricada-thumb.jpg
 ---
 
