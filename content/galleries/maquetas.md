@@ -44,5 +44,12 @@ galleryitems:
     itemImage: galleries-maquetas-pradosdeleste2.jpg
     itemName: 'Maqueta publicitaria '
     itemThumb: galleries-maquetas-pradosdeleste2-thumb.jpg
+  - itemCaption: |-
+      Proyecto y maqueta de una Vivienda Unifamiliar en Caracas.
+
+      Plástico pintado.  Escala 1:200
+    itemImage: galleries-maquetas-miproyectoconToniLoc.jpg
+    itemName: Maqueta publicitaria
+    itemThumb: galleries-maquetas-miproyectoconToniLoc-thumb.jpg
 ---
 
