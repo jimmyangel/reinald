@@ -31,11 +31,13 @@ galleryitems:
     itemName: 'Maqueta de presentación '
     itemThumb: galleries-maquetas-losanaucos-thumb.jpg
   - itemCaption: |-
-      Proyecto y maqueta de una Vivienda Unifamiliar en Caracas.
+      Proyecto y maqueta de una Vivienda Unifamiliar en Prados del Este-Caracas.
 
-      Plástico pintado.  Escala 1:200
+      Plástico y pintura acrílica.
+
+      Escala 1:200
     itemImage: galleries-maquetas-miproyectoconToniLoc.jpg
-    itemName: Maqueta publicitaria
+    itemName: Maqueta de presentación
     itemThumb: galleries-maquetas-miproyectoconToniLoc-thumb.jpg
 ---
 
