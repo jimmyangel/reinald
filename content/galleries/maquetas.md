@@ -31,20 +31,6 @@ galleryitems:
     itemName: 'Maqueta de presentación '
     itemThumb: galleries-maquetas-losanaucos-thumb.jpg
   - itemCaption: |-
-      Vivienda unifamiliar en Caracas
-
-      Plástico pintado.  Escala 1:200
-    itemImage: galleries-maquetas-pradosdeleste1.jpg
-    itemName: Maqueta publicitaria
-    itemThumb: galleries-maquetas-pradosdeleste1-thumb.jpg
-  - itemCaption: |-
-      Vivienda unifamiliar en Caracas
-
-      Plástico pintado.  Escala 1:200
-    itemImage: galleries-maquetas-pradosdeleste2.jpg
-    itemName: 'Maqueta publicitaria '
-    itemThumb: galleries-maquetas-pradosdeleste2-thumb.jpg
-  - itemCaption: |-
       Proyecto y maqueta de una Vivienda Unifamiliar en Caracas.
 
       Plástico pintado.  Escala 1:200
