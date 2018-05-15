@@ -16,6 +16,9 @@ galleryitems:
       de una estudiante de la Universidad Simón Bolivar-Venezuela.
 
 
+      Desarmable por plantas para una visualización total del edificio.
+
+
       Cartón básico de varios espesores
 
 
@@ -39,5 +42,21 @@ galleryitems:
     itemImage: galleries-maquetas-miproyectoconToniLoc.jpg
     itemName: Maqueta de presentación
     itemThumb: galleries-maquetas-miproyectoconToniLoc-thumb.jpg
+  - itemCaption: >-
+      La maqueta fue realizada para la presentación del proyecto de arquitectura
+      de un estudiante de la Universidad Simón Bolivar-Venezuela.
+
+
+      Desarmable por plantas y fachadas para una visualización total del
+      edificio.
+
+
+      Cartón básico de varios espesores
+
+
+      Escala 1:200
+    itemImage: galleries-maquetas-tesisgradoMachicha.jpg
+    itemName: Maqueta para Proyecto de Grado
+    itemThumb: galleries-maquetas-tesisgradoMachicha-thumb.jpg
 ---
 
