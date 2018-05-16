@@ -26,15 +26,20 @@ galleryitems:
     itemImage: galleries-maquetas-tesisgradoMila.jpg
     itemName: Maqueta para Proyecto de Grado
     itemThumb: galleries-maquetas-tesisgradoMila-thumb.jpg
-  - itemCaption: |-
-      Vivienda unifamiliar 
+  - itemCaption: >-
+      Vivienda unifamiliar en urbanización Los Anaucos, estado Miranda,
+      Venezuela.
 
-      Plástico, escala 1:200
+
+      Plástico y pintura acrílica. 
+
+
+      Escala 1:200
     itemImage: galleries-maquetas-losanaucos.jpg
     itemName: 'Maqueta de presentación '
     itemThumb: galleries-maquetas-losanaucos-thumb.jpg
   - itemCaption: |-
-      Proyecto y maqueta de una Vivienda Unifamiliar en Prados del Este-Caracas.
+      Vivienda Unifamiliar en urbanización Prados del Este, Caracas-Venezuela.
 
       Plástico y pintura acrílica.
 
