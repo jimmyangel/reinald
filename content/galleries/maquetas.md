@@ -64,7 +64,7 @@ galleryitems:
     itemName: Maqueta para Proyecto de Grado
     itemThumb: galleries-maquetas-tesisgradoMachicha-thumb.jpg
   - itemCaption: |-
-      Maqueta de una Vivienda Unifamiliar en Caracas.
+      Vivienda Unifamiliar en Caracas, Venezuela.
 
       Plástico y pintura acrílica.
 
