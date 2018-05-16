@@ -12,8 +12,8 @@ galleryitems:
     itemName: Maqueta publicitaria
     itemThumb: galleries-maquetas-tribunaprefabricada-thumb.jpg
   - itemCaption: >-
-      Elaborada para la presentación del proyecto de arquitectura de una
-      estudiante de la Universidad Simón Bolívar, Venezuela.
+      Presentación del proyecto de arquitectura de una estudiante de la
+      Universidad Simón Bolívar, Venezuela.
 
 
       Desarmable por plantas para una visualización total del edificio.
@@ -48,8 +48,8 @@ galleryitems:
     itemName: Maqueta de presentación
     itemThumb: galleries-maquetas-miproyectoconToniLoc-thumb.jpg
   - itemCaption: >-
-      Elaborada para la presentación del proyecto de arquitectura de un
-      estudiante de la Universidad Simón Bolívar, Venezuela.
+      Presentación del proyecto de arquitectura de un estudiante de la
+      Universidad Simón Bolívar, Venezuela.
 
 
       Desarmable por plantas y fachadas para una visualización total del
