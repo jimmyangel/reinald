@@ -58,5 +58,14 @@ galleryitems:
     itemImage: galleries-maquetas-tesisgradoMachicha.jpg
     itemName: Maqueta para Proyecto de Grado
     itemThumb: galleries-maquetas-tesisgradoMachicha-thumb.jpg
+  - itemCaption: |-
+      Maqueta de una Vivienda Unifamiliar en Caracas.
+
+      Plástico y pintura acrílica.
+
+      Escala 1:200
+    itemImage: galleries-maquetas-proyectodeToniLoc.jpg
+    itemName: Maqueta de Presentación
+    itemThumb: galleries-maquetas-proyectodeToniLoc-thumb.jpg
 ---
 
