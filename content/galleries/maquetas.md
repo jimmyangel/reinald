@@ -13,7 +13,7 @@ galleryitems:
     itemThumb: galleries-maquetas-tribunaprefabricada-thumb.jpg
   - itemCaption: >-
       Elaborada para la presentación del proyecto de arquitectura de una
-      estudiante de la Universidad Simón Bolívar-Venezuela.
+      estudiante de la Universidad Simón Bolívar, Venezuela.
 
 
       Desarmable por plantas para una visualización total del edificio.
@@ -39,17 +39,17 @@ galleryitems:
     itemName: 'Maqueta de presentación '
     itemThumb: galleries-maquetas-losanaucos-thumb.jpg
   - itemCaption: |-
-      Vivienda Unifamiliar en urbanización Prados del Este, Caracas-Venezuela.
+      Vivienda Unifamiliar en urbanización Prados del Este, Caracas, Venezuela.
 
       Plástico y pintura acrílica.
 
-      Escala 1:200
+      Escala 1:100
     itemImage: galleries-maquetas-miproyectoconToniLoc.jpg
     itemName: Maqueta de presentación
     itemThumb: galleries-maquetas-miproyectoconToniLoc-thumb.jpg
   - itemCaption: >-
       Elaborada para la presentación del proyecto de arquitectura de un
-      estudiante de la Universidad Simón Bolívar-Venezuela.
+      estudiante de la Universidad Simón Bolívar, Venezuela.
 
 
       Desarmable por plantas y fachadas para una visualización total del
@@ -68,7 +68,7 @@ galleryitems:
 
       Plástico y pintura acrílica.
 
-      Escala 1:200
+      Escala 1:100
     itemImage: galleries-maquetas-proyectodeToniLoc.jpg
     itemName: Maqueta de Presentación
     itemThumb: galleries-maquetas-proyectodeToniLoc-thumb.jpg
