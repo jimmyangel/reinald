@@ -72,5 +72,17 @@ galleryitems:
     itemImage: galleries-maquetas-proyectodeToniLoc.jpg
     itemName: Maqueta de Presentación
     itemThumb: galleries-maquetas-proyectodeToniLoc-thumb.jpg
+  - itemCaption: >-
+      Modelo de Vivienda de Protección Oficial para una urbanización de casas
+      prefabricadas en Cúa, estado Aragua, Venezuela. 
+
+
+      Madera de balsa, plástico, metal y pintura acrílica.
+
+
+      Escala 1:50
+    itemImage: 'galleries-maquetas-Cua1979Elemesa.jpg '
+    itemName: Maqueta publicitaria
+    itemThumb: galleries-maquetas-Cua1979Elemesa-thumb.jpg
 ---
 
