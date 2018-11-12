@@ -13,8 +13,6 @@ galleryitems:
       Proa
 
       Popa
-
-      \-
     itemImage: galleries-veleros-2nao1proapopa.jpg
     itemName: Nao VR1
     itemThumb: galleries-veleros-2nao1proapopa-thumb.jpg
