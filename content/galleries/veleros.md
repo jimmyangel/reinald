@@ -3,7 +3,7 @@ title: veleros
 label: Veleros
 galleryitems:
   - itemCaption: >-
-      Esta maqueta de Nao tiene como base una nuez de coco. La adaptación está
+      Esta maqueta de Nao tiene como base una nuez de coco y la realización está
       inspirada en la Nao Victoria, embarcación española de comienzos del siglo
       XVl
     itemImage: galleries-veleros-1nao1.jpg
