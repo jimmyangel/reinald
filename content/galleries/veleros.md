@@ -3,16 +3,14 @@ title: veleros
 label: Veleros
 galleryitems:
   - itemCaption: >-
-      Diseñado a partir de una nuez de coco es personal. La adaptación está
-      inspirada en la Nao Victoria, embarcación española de comienzos del siglo
-      XVl
+      Diseño a partir de una nuez de coco. La adaptación está inspirada en la
+      Nao Victoria, embarcación española de comienzos del siglo XVl
     itemImage: galleries-veleros-1nao1.jpg
     itemName: Nao VR1
     itemThumb: galleries-veleros-1nao1-thumb.jpg
-  - itemCaption: |-
-      Proa
-
-      Popa
+  - itemCaption: >-
+      Tanto la proa como la popa están elaborados con un diseño adaptado a la
+      nuez del coco, personalizado pero funcional.
     itemImage: galleries-veleros-2nao1proapopa.jpg
     itemName: Nao VR1
     itemThumb: galleries-veleros-2nao1proapopa-thumb.jpg
