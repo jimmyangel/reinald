@@ -6,19 +6,19 @@ galleryitems:
       Creado a partir de una nuez de coco, el diseño es muy personal pero
       inspirado en la Nao Victoria, embarcación española de comienzos del siglo
       XVl
-    itemImage: galleries-veleros-1croquisNao1.jpg
+    itemImage: galleries-veleros-1nao1.jpg
     itemName: Nao VR1
-    itemThumb: galleries-veleros-1croquisNao1-thumb.jpg
+    itemThumb: galleries-veleros-1nao1-thumb.jpg
   - itemCaption: >-
       Inicio la maqueta con la nuez de un coco, el cual hace las veces de casco
       de esta embarcación.
-    itemImage: galleries-veleros-2Nao1.jpg
+    itemImage: galleries-veleros-2nao1proapopa.jpg
     itemName: Nao VR1
-    itemThumb: galleries-veleros-2Nao1-thumb.jpg
+    itemThumb: galleries-veleros-2nao1proapopa-thumb.jpg
   - itemCaption: Proa y popa
-    itemImage: galleries-veleros-3Nao1proapopa.jpg
+    itemImage: galleries-veleros-3nao1detalles.jpg
     itemName: Nao VR1
-    itemThumb: galleries-veleros-3Nao1proapopa-thumb.jpg
+    itemThumb: galleries-veleros-3nao1detalles-thumb.jpg
   - itemCaption: Fases de ejecución y detalles
     itemImage: galleries-veleros-Nao1collage.jpg
     itemName: Nao VR1
