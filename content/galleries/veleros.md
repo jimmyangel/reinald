@@ -34,9 +34,8 @@ galleryitems:
       Dimensiones de la maqueta: eslora 68cm, manga 17cm, altura 52cm
 
 
-      Esta goleta fue construida en EEUU, en los astilleros de Baltimore en el
-      año 1840. La maqueta la hice a partir de un kit de modelismo naval cuando
-      tenía trece años de edad.
+      Esta goleta, del año 1840, fue construida en EEUU. La maqueta la realicé a
+      partir de un kit de modelismo, a los trece años.
 
 
       Escala 1:55
