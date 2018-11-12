@@ -3,9 +3,9 @@ title: veleros
 label: Veleros
 galleryitems:
   - itemCaption: >-
-      Creado a partir de una nuez de coco, el diseño es muy personal pero
-      inspirado en la Nao Victoria, embarcación española de comienzos del siglo
-      XVl
+      Creado a partir de una nuez de coco, el diseño es personal para adaptarlo
+      a la misma pero inspirado en la Nao Victoria, embarcación española de
+      comienzos del siglo XVl
     itemImage: galleries-veleros-1nao1.jpg
     itemName: Nao VR1
     itemThumb: galleries-veleros-1nao1-thumb.jpg
