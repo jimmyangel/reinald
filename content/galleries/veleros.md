@@ -26,7 +26,9 @@ galleryitems:
     itemImage: galleries-veleros-2croquisgaleon1.jpg
     itemName: Galeón VR2
     itemThumb: galleries-veleros-2croquisgaleon1-thumb.jpg
-  - itemCaption: ''
+  - itemCaption: >-
+      La goleta es del siglo XVIII, construida en EEUU. La ensamblé a partir de
+      un kit de modelismo a los trece años.
     itemImage: galleries-veleros-albatros.jpg
     itemName: Goleta Albatros
     itemThumb: galleries-veleros-albatros-thumb.jpg
