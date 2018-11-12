@@ -27,7 +27,7 @@ galleryitems:
     itemName: Galeón VR2
     itemThumb: galleries-veleros-2croquisgaleon1-thumb.jpg
   - itemCaption: >-
-      Adaptar la embarcación a una nuez de coco hace que el diseño tengo
+      Adaptar la embarcación a una nuez de coco hace que el diseño tenga
       elementos personales pero me inspiré en el galeón Andalucía, embarcación
       española de comienzos del siglo XVll
     itemImage: galleries-veleros-albatros.jpg
