@@ -14,8 +14,8 @@ galleryitems:
     itemName: Nao VR1
     itemThumb: galleries-veleros-2nao1proapopa-thumb.jpg
   - itemCaption: >-
-      Inicio la maqueta con la nuez de un coco, el cual hace las veces de casco
-      de esta embarcación.
+      Croquis del diseño, corte de la nuez de un coco con las cubiertas y varios
+      detalles de las cubiertas, ancla, cuerdas, escaleras, carajo...
     itemImage: galleries-veleros-3nao1detalles.jpg
     itemName: Nao VR1
     itemThumb: galleries-veleros-3nao1detalles-thumb.jpg
