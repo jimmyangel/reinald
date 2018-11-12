@@ -16,8 +16,9 @@ galleryitems:
     itemName: Nao VR1
     itemThumb: galleries-veleros-2nao1proapopa-thumb.jpg
   - itemCaption: >-
-      Croquis del diseño, corte de la nuez de un coco con las cubiertas y varios
-      detalles de las cubiertas, ancla, cuerdas, carajo, escaleras,...
+      Croquis del diseño; corte de la nuez y las cubiertas; varios detalles de
+      las cubiertas como son anclas, cuerdas, aparejos, carajo, barandillas,
+      escaleras, velamen.....
     itemImage: galleries-veleros-3nao1detalles.jpg
     itemName: Nao VR1
     itemThumb: galleries-veleros-3nao1detalles-thumb.jpg
