@@ -25,7 +25,7 @@ galleryitems:
   - itemCaption: >-
       Adaptar la embarcación a una nuez de coco hace que el diseño tenga
       elementos personales pero me inspiré en el galeón Andalucía, embarcación
-      española de comienzos del siglo XVll
+      española de comienzos del siglo XVll.
     itemImage: galleries-veleros-2croquisgaleon1.jpg
     itemName: Galeón VR2
     itemThumb: galleries-veleros-2croquisgaleon1-thumb.jpg
