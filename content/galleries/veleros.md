@@ -9,13 +9,13 @@ galleryitems:
     itemImage: galleries-veleros-1nao1.jpg
     itemName: Nao VR1
     itemThumb: galleries-veleros-1nao1-thumb.jpg
-  - itemCaption: >-
-      Inicio la maqueta con la nuez de un coco, el cual hace las veces de casco
-      de esta embarcación.
+  - itemCaption: Vista de proa y popa
     itemImage: galleries-veleros-2nao1proapopa.jpg
     itemName: Nao VR1
     itemThumb: galleries-veleros-2nao1proapopa-thumb.jpg
-  - itemCaption: Proa y popa
+  - itemCaption: >-
+      Inicio la maqueta con la nuez de un coco, el cual hace las veces de casco
+      de esta embarcación.
     itemImage: galleries-veleros-3nao1detalles.jpg
     itemName: Nao VR1
     itemThumb: galleries-veleros-3nao1detalles-thumb.jpg
