@@ -9,7 +9,10 @@ galleryitems:
     itemImage: galleries-veleros-1nao1.jpg
     itemName: Nao VR1
     itemThumb: galleries-veleros-1nao1-thumb.jpg
-  - itemCaption: Vista de proa y popa
+  - itemCaption: |-
+      Proa
+
+      Popa
     itemImage: galleries-veleros-2nao1proapopa.jpg
     itemName: Nao VR1
     itemThumb: galleries-veleros-2nao1proapopa-thumb.jpg
