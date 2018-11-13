@@ -35,5 +35,9 @@ galleryitems:
     itemImage: galleries-veleros-albatros.jpg
     itemName: Goleta Albatros
     itemThumb: galleries-veleros-albatros-thumb.jpg
+  - itemCaption: probando el 1200 x 600
+    itemImage: galleries-veleros-3croquisgaleon1.jpg
+    itemName: Galeón VR2
+    itemThumb: galleries-veleros-3croquisgaleon1-thumb.jpg
 ---
 
