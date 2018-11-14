@@ -31,9 +31,9 @@ galleryitems:
     itemName: Galeón VR2
     itemThumb: galleries-veleros-2croquisgaleon1-thumb.jpg
   - itemCaption: >-
-      Detalles constructivos y de acabados: croquis del proyecto; cortes de la
-      nuez de coco; las cubiertas antes de colocadas; escalas de cuerda y
-      carajo; proa y popa; cubierta, detalles; estribor de la embarcación.
+      Leyenda de los detalles: croquis del proyecto; cortes del coco para el
+      casco; las cubiertas antes de colocadas; escalas de cuerda y carajo; proa
+      y popa; detalles de las cubiertas; estribor de la embarcación.
     itemImage: galleries-veleros-3croquisgaleon1.jpg
     itemName: Galeón VR2
     itemThumb: galleries-veleros-3croquisgaleon1-thumb.jpg
