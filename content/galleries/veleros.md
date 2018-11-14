@@ -10,8 +10,9 @@ galleryitems:
     itemName: Nao VR1
     itemThumb: galleries-veleros-1nao1-thumb.jpg
   - itemCaption: >-
-      Tanto la proa como la popa están elaborados con un diseño adaptado a la
-      nuez del coco, personalizado pero funcional.
+      Proa, popa y demás partes que conforman la nao están elaborados con un
+      diseño adaptado a la nuez del coco, personalizado pero sus
+      funcionalidades.
     itemImage: galleries-veleros-2nao1proapopa.jpg
     itemName: Nao VR1
     itemThumb: galleries-veleros-2nao1proapopa-thumb.jpg
