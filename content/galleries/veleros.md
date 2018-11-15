@@ -30,6 +30,13 @@ galleryitems:
     itemImage: galleries-veleros-1galeon1.jpg
     itemName: Galeón VR2
     itemThumb: galleries-veleros-1galeon1-thumb.jpg
+  - itemCaption: |-
+      Vista aerea, desde abajo, proa, popa y anclas
+
+      Falta redactar esta foto
+    itemImage: galleries-veleros-2galeon1.jpg
+    itemName: Galeón VR2
+    itemThumb: galleries-veleros-2galeon1-thumb.jpg
   - itemCaption: >-
       Leyenda de los detalles: croquis del proyecto; cortes del coco para el
       casco; las cubiertas antes de colocadas; escalas de cuerda y carajo; proa
@@ -43,12 +50,5 @@ galleryitems:
     itemImage: galleries-veleros-albatros.jpg
     itemName: Goleta Albatros
     itemThumb: galleries-veleros-albatros-thumb.jpg
-  - itemCaption: |-
-      Vista aerea, desde abajo, proa, popa y anclas
-
-      Falta redactar esta foto
-    itemImage: galleries-veleros-2galeon1.jpg
-    itemName: Galeón VR2
-    itemThumb: galleries-veleros-2galeon1-thumb.jpg
 ---
 
