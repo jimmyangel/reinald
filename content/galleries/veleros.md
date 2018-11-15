@@ -28,7 +28,7 @@ galleryitems:
       elementos personales pero me inspiré en el galeón Andalucía, embarcación
       española de comienzos del siglo XVll
     itemImage: galleries-veleros-1galeon1.jpg
-    itemName: Galeón VR2
+    itemName: 'Galeón VR2 '
     itemThumb: galleries-veleros-1galeon1-thumb.jpg
   - itemCaption: |-
       Vista aerea, desde abajo, proa, popa y anclas
