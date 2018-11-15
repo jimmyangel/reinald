@@ -35,7 +35,9 @@ galleryitems:
       anclas                                  Falta redactar esta
       foto                                                                                        
       y estaría listo el
-      galeón.                                                                                   
+      galeón.                                                                                    
+
+
       A seguir inventando, pues!
     itemImage: galleries-veleros-2galeon1.jpg
     itemName: Galeón VR2
