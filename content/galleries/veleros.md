@@ -32,10 +32,10 @@ galleryitems:
     itemThumb: galleries-veleros-1galeon1-thumb.jpg
   - itemCaption: >-
       Vista aerea, vista desde abajo, proa, popa y
-      anclas                                  Falta redactar esta
-      foto                                                                                        
-      y estaría listo el
-      galeón.                                                                                   
+      anclas                                  Falta redactar esta foto y estaría
+      listo el galeón.                                 
+
+
       A seguir inventando, pues!
     itemImage: galleries-veleros-2galeon1.jpg
     itemName: Galeón VR2
