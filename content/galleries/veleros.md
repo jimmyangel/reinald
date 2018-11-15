@@ -30,10 +30,13 @@ galleryitems:
     itemImage: galleries-veleros-1galeon1.jpg
     itemName: 'Galeón VR2 '
     itemThumb: galleries-veleros-1galeon1-thumb.jpg
-  - itemCaption: |-
-      Vista aerea, desde abajo, proa, popa y anclas
+  - itemCaption: >-
+      Vista aerea, vista desde abajo, proa, popa y anclas
 
-      Falta redactar esta foto
+
+      Falta redactar esta
+      foto                                                                                        
+      y estaría listo el galeón.
     itemImage: galleries-veleros-2galeon1.jpg
     itemName: Galeón VR2
     itemThumb: galleries-veleros-2galeon1-thumb.jpg
