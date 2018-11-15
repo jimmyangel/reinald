@@ -43,5 +43,12 @@ galleryitems:
     itemImage: galleries-veleros-albatros.jpg
     itemName: Goleta Albatros
     itemThumb: galleries-veleros-albatros-thumb.jpg
+  - itemCaption: |-
+      Vista aerea, desde abajo, proa, popa y anclas
+
+      Falta redactar esta foto
+    itemImage: galleries-veleros-2galeon1.jpg
+    itemName: Galeón VR2
+    itemThumb: galleries-veleros-2galeon1-thumb.jpg
 ---
 
