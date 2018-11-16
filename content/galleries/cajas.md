@@ -3,10 +3,10 @@ title: cajas
 label: Cajas
 galleryitems:
   - itemCaption: >-
-      Madera de pino y tapa de metacrilato gris
+      Madera de pino y tapa de metacrilato
       transparente                                                                      
-      Modelo de 6 divisiones
-      internas.                                                               
+      Modelo con 6 divisiones
+      internas                                                               
       Divisiones según
       necesidad                                                                    
       Dimensiones: base de 31 x 23 y altura 8cm
