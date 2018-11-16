@@ -3,10 +3,10 @@ title: cajas
 label: Cajas
 galleryitems:
   - itemCaption: >-
-      Madera pino, tapa
-      metacrilato                                                                       
+      Madera pino y tapa
+      metacrilato                                                                                                           
       Con 6 divisiones
-      internas.                                                               
+      internas.                                                                                                        
       Divisiones según
       necesidad                                                                     
 
