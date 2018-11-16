@@ -9,7 +9,7 @@ galleryitems:
       internas                                                               
       Divisiones según
       necesidad                                                                    
-      Dimensiones: base de 31 x 23 y altura 8cm
+      Dimensiones caja: base de 31 x 23 y altura 8cm
     itemImage: galleries-cajas-parabolsitaste1.jpg
     itemName: Infusiones
     itemThumb: galleries-cajas-parabolsitaste1-thumb.jpg
