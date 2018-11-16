@@ -10,7 +10,7 @@ galleryitems:
 
       Dimensiones: base de 31 x 23 y altura 8cm
     itemImage: galleries-cajas-parabolsitaste1.jpg
-    itemName: 'Infusiones, ....'
+    itemName: Infusiones
     itemThumb: galleries-cajas-parabolsitaste1-thumb.jpg
   - itemCaption: >-
       Madera pino y tapa
