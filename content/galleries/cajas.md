@@ -7,7 +7,7 @@ galleryitems:
 
 
       Con 6 divisiones
-      internas.                                                               
+      internas.                                                                                                                                                                                                                                                                                                                                                                
       Divisiones según
       necesidad                                                                     
 
