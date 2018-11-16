@@ -31,10 +31,9 @@ galleryitems:
     itemName: 'Galeón VR2 '
     itemThumb: galleries-veleros-1galeon1-thumb.jpg
   - itemCaption: >-
-      Vista aerea, vista desde abajo, proa, popa y
-      anclas                                  Falta redactar esta foto y estaría
-      listo el galeón  asi que a seguir inventando, pues y ver en que queda todo
-      esto para alinear las tres fotos
+      Aquí tenemos la embarcación vista desde varios ángulos los cuales dejan
+      ver detalles muy diferentes: la proa con detalles del ancla; el castillo
+      de popa y el timón; el despliegue del velamen, carajo y cuerdas.
     itemImage: galleries-veleros-2galeon1.jpg
     itemName: Galeón VR2
     itemThumb: galleries-veleros-2galeon1-thumb.jpg
