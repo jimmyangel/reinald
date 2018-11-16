@@ -4,7 +4,9 @@ label: Cajas
 galleryitems:
   - itemCaption: >-
       Madera de pino y tapa de metacrilato gris
-      transparente                                                                   
+      transparente                                                                       
+
+
       Opción con 6 divisiones internas   
 
 
