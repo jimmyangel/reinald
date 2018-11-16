@@ -31,9 +31,9 @@ galleryitems:
     itemName: 'Galeón VR2 '
     itemThumb: galleries-veleros-1galeon1-thumb.jpg
   - itemCaption: >-
-      Aquí tenemos la embarcación vista desde varios ángulos los cuales dejan
-      ver detalles muy diferentes: la proa con detalles del ancla; el castillo
-      de popa y el timón; el despliegue del velamen, carajo y cuerdas.
+      Aquí está la embarcación vista desde varios ángulos los cuales dejan ver
+      detalles muy diferentes: la proa con detalles del ancla; el castillo de
+      popa y el timón; el despliegue del velamen, carajo y cuerdas.
     itemImage: galleries-veleros-2galeon1.jpg
     itemName: Galeón VR2
     itemThumb: galleries-veleros-2galeon1-thumb.jpg
