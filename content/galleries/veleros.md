@@ -42,9 +42,9 @@ galleryitems:
       Leyenda de los detalles: croquis del proyecto; cortes del coco para el
       casco; las cubiertas antes de colocadas; escalas de cuerda y carajo; proa
       y popa; detalles de las cubiertas; estribor de la embarcación.
-    itemImage: galleries-veleros-3croquisgaleon1.jpg
+    itemImage: galleries-veleros-3galeon1.jpg
     itemName: Galeón VR2
-    itemThumb: galleries-veleros-3croquisgaleon1-thumb.jpg
+    itemThumb: galleries-veleros-3galeon1-thumb.jpg
   - itemCaption: >-
       Fue construida en el siglo XVIII, en astilleros de EEUU. La ensamblé a
       partir de un kit de modelismo a los trece años.
