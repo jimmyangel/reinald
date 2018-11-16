@@ -24,8 +24,8 @@ galleryitems:
     itemName: Nao VR1
     itemThumb: galleries-veleros-3nao1detalles-thumb.jpg
   - itemCaption: >-
-      Adaptar la embarcación a una nuez de coco hace que el diseño tenga
-      elementos personales pero me inspiré en el galeón Andalucía, embarcación
+      Adaptar el casco de la embarcación a una nuez de coco hace que el diseño
+      tenga elementos personales. Me inspiré en el galeón Andalucía, embarcación
       española de comienzos del siglo XVll
     itemImage: galleries-veleros-1galeon1.jpg
     itemName: 'Galeón VR2 '
