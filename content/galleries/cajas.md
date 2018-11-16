@@ -6,7 +6,9 @@ galleryitems:
       Madera pino y tapa metacrilato
 
 
-      Con 6 divisiones internas                           Divisiones según
+      Con 6 divisiones
+      internas                                                               
+      Divisiones según
       necesidad                                                                     
 
 
