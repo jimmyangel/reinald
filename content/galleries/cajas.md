@@ -7,7 +7,7 @@ galleryitems:
       transparente                                                                       
 
 
-      Opción con 6 divisiones internas   
+      Modelo de 6 divisiones internas   
 
 
       Dimensiones: base de 31 x 23 y altura 8cm
