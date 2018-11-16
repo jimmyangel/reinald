@@ -3,15 +3,15 @@ title: cajas
 label: Cajas
 galleryitems:
   - itemCaption: >-
-      Madera pino, tapa metacrilato
-      transparente                                                                      
+      Madera pino, tapa
+      metacrilato                                                                       
       Con 6 divisiones
       internas.                                                               
       Divisiones según
       necesidad                                                                     
 
 
-      Dimensiones caja: base de 31 x 23 y altura 8cm
+      Dimensiones: base=31 x 23 y altura=8cm
     itemImage: galleries-cajas-parabolsitaste1.jpg
     itemName: Infusiones
     itemThumb: galleries-cajas-parabolsitaste1-thumb.jpg
