@@ -38,10 +38,10 @@ galleryitems:
     itemName: Galeón VR2
     itemThumb: galleries-veleros-2galeon1-thumb.jpg
   - itemCaption: >-
-      Croquis del proyecto, cortes del coco para el casco, detalles de cubierta
-      en fase constructiva; escalas de cuerdas, poleas y tensores para subir
-      hasta el carajo; detalles en cubiertas: escaleras, puertas, ventanas,
-      paredes, mástiles, timón y barandillas.
+      Croquis proyecto; cortes del coco para el casco; detalles de cubierta en
+      fase constructiva; poleas, tensores y cuerdas para subir al carajo;
+      detalles de escaleras, puertas, ventanas, paredes, mástiles, timón y
+      barandillas.
     itemImage: galleries-veleros-3galeon1.jpg
     itemName: Galeón VR2
     itemThumb: galleries-veleros-3galeon1-thumb.jpg
