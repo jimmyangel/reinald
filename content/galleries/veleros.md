@@ -39,9 +39,9 @@ galleryitems:
     itemName: Galeón VR2
     itemThumb: galleries-veleros-2galeon1-thumb.jpg
   - itemCaption: >-
-      Leyenda de los detalles: croquis del proyecto; cortes del coco para el
-      casco; casco con cubiertas y detalles; escalas de cuerda y carajo; poleas
-      con cuerdas para escalas; detalles en las cubiertas y barandillas.
+      Leyenda: croquis del proyecto; cortes del coco para el casco; casco con
+      cubiertas y detalles; escalas de cuerda y carajo; poleas con cuerdas para
+      escalas; detalles en las cubiertas y barandillas.
     itemImage: galleries-veleros-3galeon1.jpg
     itemName: Galeón VR2
     itemThumb: galleries-veleros-3galeon1-thumb.jpg
