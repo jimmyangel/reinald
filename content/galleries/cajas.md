@@ -3,10 +3,8 @@ title: cajas
 label: Cajas
 galleryitems:
   - itemCaption: >-
-      Caja de madera pino                  y tapa de metacrilato
-
-
-      \- - - -
+      Caja de madera pino                  y tapa de
+      metacrilato                                 - - - -
 
 
       Con 6 divisiones
