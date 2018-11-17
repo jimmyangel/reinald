@@ -6,6 +6,8 @@ galleryitems:
       Caja de madera pino                  y tapa de metacrilato
 
 
+
+
       Con 6 divisiones
       internas.                                                                                                                                                                                                                                                                                                                                                                                                                                  
 
