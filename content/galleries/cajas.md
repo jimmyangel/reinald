@@ -30,7 +30,7 @@ galleryitems:
     itemThumb: galleries-cajas-parabolsitaste2-thumb.jpg
   - itemCaption: >-
       Caja de madera pino y                    tapa de metacrilato con madera
-      roja
+      sapelly
 
 
       Con 12 divisiones
