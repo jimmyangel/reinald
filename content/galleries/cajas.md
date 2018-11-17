@@ -15,12 +15,15 @@ galleryitems:
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-parabolsitaste1-thumb.jpg
   - itemCaption: >-
-      Madera pino y tapa
-      metacrilato                                                                 
-      6 divisiones internas 
+      Caja de madera pino y                    tapa de metacrilato con madera
+      roja
 
 
-      Dimensiones: 31 x 23 x 8cm
+      Con 6 divisiones
+      internas.                                                                                                                                                                                                                                                                                                                                                                                                                                  
+
+
+      Dimensiones: base=31 x 23 y altura=8cm
     itemImage: galleries-cajas-parabolsitaste2.jpg
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-parabolsitaste2-thumb.jpg
