@@ -37,7 +37,7 @@ galleryitems:
       internas.                                                                                                                                                                                                                                                                                                                                                                                                                                  
 
 
-      Dimensiones: base= 31x23cm       altura= 8cm
+      Dimensiones: base= 31x31cm       altura= 8cm
     itemImage: galleries-cajas-parabolsitaste3.jpg
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-parabolsitaste3-thumb.jpg
