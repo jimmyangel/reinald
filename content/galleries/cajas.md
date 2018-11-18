@@ -62,12 +62,12 @@ galleryitems:
     itemName: Para galletas
     itemThumb: galleries-cajas-Galletas-thumb.jpg
   - itemCaption: |-
-      Madera y metacrilato 
+      Madera de varios colores y tapa de metacrilato 
 
-      Dimensiones: 21 x 21 x 8cm
-    itemImage: galleries-cajas-congalletas.jpg
-    itemName: Caja para obsequios
-    itemThumb: galleries-cajas-congalletas-thumb.jpg
+      Dimensiones: base= 21x21cm  altura= 8cm
+    itemImage: galleries-cajas-Galletas2.jpg
+    itemName: 'Para galletas, obsequios, .....'
+    itemThumb: galleries-cajas-Galletas2-thumb.jpg
   - itemCaption: |-
       Metacrilato. Colores para elegir 
 
