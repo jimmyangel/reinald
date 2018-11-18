@@ -55,6 +55,13 @@ galleryitems:
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-parabolsitaste4-thumb.jpg
   - itemCaption: |-
+      Madera varios colores y tapa metacrilato
+
+      Dimensiones: 30 x 30 x 6cm
+    itemImage: galleries-cajas-Galletas.jpg
+    itemName: Para galletas
+    itemThumb: galleries-cajas-Galletas-thumb.jpg
+  - itemCaption: |-
       Madera y metacrilato 
 
       Dimensiones: 21 x 21 x 8cm
@@ -82,12 +89,5 @@ galleryitems:
     itemImage: galleries-cajas-prendedor33.jpg
     itemName: Caja de presentación
     itemThumb: galleries-cajas-prendedor33-thumb.jpg
-  - itemCaption: |-
-      Madera varios colores y tapa metacrilato
-
-      Dimensiones: 30 x 30 x 6cm
-    itemImage: galleries-cajas-Galletas.jpg
-    itemName: Para galletas
-    itemThumb: galleries-cajas-Galletas-thumb.jpg
 ---
 
