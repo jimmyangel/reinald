@@ -42,13 +42,6 @@ galleryitems:
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-parabolsitaste3-thumb.jpg
   - itemCaption: |-
-      Madera y metacrilato 
-
-      Dimensiones: 21 x 21 x 8cm
-    itemImage: galleries-cajas-congalletas.jpg
-    itemName: Caja para obsequios
-    itemThumb: galleries-cajas-congalletas-thumb.jpg
-  - itemCaption: |-
       16 subdivisiones internas.
 
       Modificables para adaptar a otros usos.
@@ -56,12 +49,12 @@ galleryitems:
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-2paraTe16-thumb.jpg
   - itemCaption: |-
-      Madera pino y tapa metacrilato.  
+      Madera y metacrilato 
 
-      Dimensiones - 38 x 38 x 8cm
-    itemImage: galleries-cajas-1paraTe16.jpg
-    itemName: 'Infusiones, ....'
-    itemThumb: galleries-cajas-1paraTe16-thumb.jpg
+      Dimensiones: 21 x 21 x 8cm
+    itemImage: galleries-cajas-congalletas.jpg
+    itemName: Caja para obsequios
+    itemThumb: galleries-cajas-congalletas-thumb.jpg
   - itemCaption: |-
       Metacrilato. Colores para elegir 
 
@@ -90,18 +83,5 @@ galleryitems:
     itemImage: galleries-cajas-Galletas.jpg
     itemName: Para galletas
     itemThumb: galleries-cajas-Galletas-thumb.jpg
-  - itemCaption: >-
-      Caja de madera pino y                    tapa de metacrilato con madera
-      sapelly
-
-
-      Con 16 divisiones
-      internas.                                                                                                                                                                                                                                                                                                                                                                                                                                  
-
-
-      Dimensiones: base= 39x39cm       altura= 8cm
-    itemImage: galleries-cajas-parabolsitaste4.jpg
-    itemName: 'Infusiones, ....'
-    itemThumb: galleries-cajas-parabolsitaste4-thumb.jpg
 ---
 
