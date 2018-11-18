@@ -41,13 +41,19 @@ galleryitems:
     itemImage: galleries-cajas-parabolsitaste3.jpg
     itemName: 'Infusiones, ....'
     itemThumb: galleries-cajas-parabolsitaste3-thumb.jpg
-  - itemCaption: |-
-      16 subdivisiones internas.
+  - itemCaption: >-
+      Caja de madera pino y                    tapa de metacrilato con madera
+      sapelly
 
-      Modificables para adaptar a otros usos.
-    itemImage: galleries-cajas-2paraTe16.jpg
+
+      Con 16 divisiones
+      internas.                                                                                                                                                                                                                                                                                                                                                                                                                                  
+
+
+      Dimensiones: base= 39x39cm       altura= 8cm
+    itemImage: galleries-cajas-parabolsitaste4.jpg
     itemName: 'Infusiones, ....'
-    itemThumb: galleries-cajas-2paraTe16-thumb.jpg
+    itemThumb: galleries-cajas-parabolsitaste4-thumb.jpg
   - itemCaption: |-
       Madera y metacrilato 
 
