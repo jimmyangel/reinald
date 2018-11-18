@@ -33,7 +33,7 @@ galleryitems:
       sapelly
 
 
-      Con 12 divisiones
+      Con 9 divisiones
       internas.                                                                                                                                                                                                                                                                                                                                                                                                                                  
 
 
