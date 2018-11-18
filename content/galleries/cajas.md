@@ -1,5 +1,5 @@
 ---
-title: cajas
+title: 'cajas '
 label: Cajas
 galleryitems:
   - itemCaption: >-
