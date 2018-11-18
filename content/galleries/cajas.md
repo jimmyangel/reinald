@@ -90,5 +90,18 @@ galleryitems:
     itemImage: galleries-cajas-Galletas.jpg
     itemName: Para galletas
     itemThumb: galleries-cajas-Galletas-thumb.jpg
+  - itemCaption: >-
+      Caja de madera pino y                    tapa de metacrilato con madera
+      sapelly
+
+
+      Con 16 divisiones
+      internas.                                                                                                                                                                                                                                                                                                                                                                                                                                  
+
+
+      Dimensiones: base= 39x39cm       altura= 8cm
+    itemImage: galleries-cajas-parabolsitaste4.jpg
+    itemName: 'Infusiones, ....'
+    itemThumb: galleries-cajas-parabolsitaste4-thumb.jpg
 ---
 
