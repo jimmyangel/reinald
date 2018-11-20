@@ -84,7 +84,7 @@ galleryitems:
     itemName: Colgante
     itemThumb: galleries-miscelaneas-colganteRMpiedra-thumb.jpg
   - itemCaption: >-
-      Concebida para evitar problemas de cervicales, frecuentes en trabajos
+      Concebida para evitar molestias cervicales, frecuentes en trabajos
       prolongados.     
 
 
