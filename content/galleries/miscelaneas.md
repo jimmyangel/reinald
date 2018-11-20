@@ -84,7 +84,7 @@ galleryitems:
     itemName: Colgante
     itemThumb: galleries-miscelaneas-colganteRMpiedra-thumb.jpg
   - itemCaption: >-
-      Para evitar molestias cervicales, frecuentes en trabajos prolongados.     
+      Para evitar molestias cervicales, frecuente en trabajos prolongados.     
 
 
       Buena ventilación, incorpora una
