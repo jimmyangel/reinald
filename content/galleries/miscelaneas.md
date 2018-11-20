@@ -83,5 +83,19 @@ galleryitems:
     itemImage: galleries-miscelaneas-colganteRMpiedra.jpg
     itemName: Colgante
     itemThumb: galleries-miscelaneas-colganteRMpiedra-thumb.jpg
+  - itemCaption: >-
+      Esta base está diseñada para evitar los problemas de cervicales, típicos
+      en el uso prolongado del
+      computador.                                                           
+      También ayuda a la refrigeración del mismo al estar levantada la parte
+      trasera.                                                                                               
+      Tiene además una bandeja para usos
+      varios.                                                                                              
+      Es portátil y los tornillos mariposa facilitan el
+      desarme.                               De madera u otro material, p.ej
+      metacrilato de colores variados.
+    itemImage: galleries-miscelaneas-basecompu.jpg
+    itemName: Base computador
+    itemThumb: galleries-miscelaneas-basecompu-thumb.jpg
 ---
 
