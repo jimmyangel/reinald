@@ -84,16 +84,14 @@ galleryitems:
     itemName: Colgante
     itemThumb: galleries-miscelaneas-colganteRMpiedra-thumb.jpg
   - itemCaption: >-
-      Concebida para evitar molestias cervicales, frecuentes en trabajos
-      prolongados.     
+      Para evitar molestias cervicales, frecuentes en trabajos prolongados.     
 
 
-      Buena ventilación e incorpora una
+      Buena ventilación, incorpora una
       bandeja                                                                                              
 
 
-      Portátil. Tornillos mariposa facilita el
-      desarme                             
+      Portátil. Tornillos mariposa para el desarme                            
 
 
       Materiales: madera o metacrilato, ...
