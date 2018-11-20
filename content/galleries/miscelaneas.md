@@ -88,15 +88,15 @@ galleryitems:
       prolongados.     
 
 
-      Buena ventilación e incorpora una bandeja usos
-      varios.                                                                                               
+      Buena ventilación e incorpora una
+      bandeja                                                                                              
 
 
-      Portátil y tornillos mariposa para facilitar el
-      desarme.                               
+      Portátil. Tornillos mariposa facilita el
+      desarme                             
 
 
-      Materiales pueden ser: madera, metacrilato, ...
+      Materiales: madera ó metacrilato, ...
     itemImage: galleries-miscelaneas-basecompu.jpg
     itemName: Base computador
     itemThumb: galleries-miscelaneas-basecompu-thumb.jpg
