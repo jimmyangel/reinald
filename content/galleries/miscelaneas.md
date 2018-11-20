@@ -84,16 +84,16 @@ galleryitems:
     itemName: Colgante
     itemThumb: galleries-miscelaneas-colganteRMpiedra-thumb.jpg
   - itemCaption: >-
-      Está concebida con esta altura e inclinación para evitar los problemas de
+      Concebida con esta altura e inclinación para evitar los problemas de
       cervicales frecuentes en el uso prolongado del computador.     
 
 
-      También ayuda a la refrigeración del mismo al estar levantada la parte
-      trasera.     Tiene además una bandeja para usos
+      El espacio libre debajo del computador ayuda a su refrigeración.  Tiene
+      además una bandeja para usos
       varios.                                                                                               
 
 
-      Es portátil y los tornillos mariposa facilitan el
+      Portátil y con tornillos mariposa para facilitar el
       desarme.                               
 
 
