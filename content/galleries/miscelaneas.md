@@ -91,10 +91,10 @@ galleryitems:
       bandeja                                                                                              
 
 
-      Portátil. Tornillos mariposa para el desarme                            
+      Desarmable, portátil.                
 
 
-      Materiales: madera o metacrilato, ...
+      Materiales: madera o metacrilato, ....
     itemImage: galleries-miscelaneas-basecompu.jpg
     itemName: Base computador
     itemThumb: galleries-miscelaneas-basecompu-thumb.jpg
