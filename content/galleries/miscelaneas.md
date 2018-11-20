@@ -84,12 +84,12 @@ galleryitems:
     itemName: Colgante
     itemThumb: galleries-miscelaneas-colganteRMpiedra-thumb.jpg
   - itemCaption: >-
-      Concebida con esta altura e inclinación para evitar los problemas de
-      cervicales frecuentes en el uso prolongado del computador.     
+      Concebida con esta altura e inclinación para evitar problemas de
+      cervicales frecuentes con el uso prolongado del computador.     
 
 
-      El espacio libre debajo del computador ayuda a su refrigeración.  Tiene
-      además una bandeja para usos
+      El espacio debajo del computador ayuda a su refrigeración.  Tiene además
+      una bandeja para usos
       varios.                                                                                               
 
 
