@@ -84,20 +84,19 @@ galleryitems:
     itemName: Colgante
     itemThumb: galleries-miscelaneas-colganteRMpiedra-thumb.jpg
   - itemCaption: >-
-      Concebida con esta altura e inclinación para evitar problemas de
-      cervicales frecuentes con el uso prolongado del computador.     
+      Concebida para evitar problemas de cervicales, frecuentes en trabajos
+      prolongados.     
 
 
-      El espacio debajo del computador ayuda a su refrigeración.  Tiene además
-      una bandeja para usos
+      Buena ventilación e incorpora una bandeja usos
       varios.                                                                                               
 
 
-      Portátil y con tornillos mariposa para facilitar el
+      Portátil y tornillos mariposa para facilitar el
       desarme.                               
 
 
-      De madera u otro material, p.ej metacrilato de colores variados.
+      Materiales pueden ser: madera, metacrilato, ...
     itemImage: galleries-miscelaneas-basecompu.jpg
     itemName: Base computador
     itemThumb: galleries-miscelaneas-basecompu-thumb.jpg
