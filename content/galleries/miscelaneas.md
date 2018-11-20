@@ -84,8 +84,8 @@ galleryitems:
     itemName: Colgante
     itemThumb: galleries-miscelaneas-colganteRMpiedra-thumb.jpg
   - itemCaption: >-
-      Esta base está diseñada para evitar los problemas de cervicales, típicos
-      en el uso prolongado del computador.     
+      Está concebida para evitar los problemas de cervicales frecuentes en el
+      uso prolongado del computador.     
 
 
       También ayuda a la refrigeración del mismo al estar levantada la parte
