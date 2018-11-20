@@ -96,7 +96,7 @@ galleryitems:
       desarme                             
 
 
-      Materiales: madera ó metacrilato, ...
+      Materiales: madera o metacrilato, ...
     itemImage: galleries-miscelaneas-basecompu.jpg
     itemName: Base computador
     itemThumb: galleries-miscelaneas-basecompu-thumb.jpg
