@@ -104,7 +104,7 @@ galleryitems:
       de un eje que hace las veces de tronco.
 
 
-      La altura es de 1,80m y la base tiene 1,20m de diámetro
+      La altura es de 1,80m y la base de diámetro 1,20m
 
 
       Material utilizado: tablero de MDF, resistente a la humedad y el fuego
