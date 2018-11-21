@@ -50,7 +50,7 @@ galleryitems:
     itemName: Estructura interior de una concha marina
     itemThumb: galleries-miscelaneas-CaracolCortado-thumb.jpg
   - itemCaption: >-
-      En el diseño hay implícito en las alas un 33: un
+      En el diseño está el número 33 en las alas: un
       aniversario.                                                                                     
 
 
