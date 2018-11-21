@@ -107,7 +107,7 @@ galleryitems:
       La altura es de 1,80m y la base de diámetro 1,20m
 
 
-      Material utilizado: tablero de MDF, resistente a la humedad y el fuego
+      Material utilizado: tablero de MDF, por la resistencia a humedad y fuego
     itemImage: galleries-miscelaneas-pinoartificial.jpg
     itemName: 'Pino navideño '
     itemThumb: galleries-miscelaneas-pinoartificial-thumb.jpg
