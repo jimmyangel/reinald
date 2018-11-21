@@ -50,11 +50,14 @@ galleryitems:
     itemName: Estructura interior de una concha marina
     itemThumb: galleries-miscelaneas-CaracolCortado-thumb.jpg
   - itemCaption: >-
-      Regalo de
-      33aniversario.                                                                                    
+      En el diseño hay implícito en las alas un 33: un
+      aniversario.                                                                                     
+
+
       Material utilizado: madera 
 
-       Dimensión: 5,00 x 3,00cm y 0,50mm espesor
+
+      Dimensión: 5,00 x 3,00cm   e:0,50mm
     itemImage: galleries-miscelaneas-33aniversario.jpg
     itemName: 'Prendedor '
     itemThumb: galleries-miscelaneas-33aniversario-thumb.jpg
