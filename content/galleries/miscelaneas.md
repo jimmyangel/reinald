@@ -59,7 +59,7 @@ galleryitems:
 
       Dimensión: 5,00 x 3,00cm   e:0,50mm
     itemImage: galleries-miscelaneas-33aniversario.jpg
-    itemName: 'Prendedor '
+    itemName: 'Colgante '
     itemThumb: galleries-miscelaneas-33aniversario-thumb.jpg
   - itemCaption: >-
       El diseño y la dimensión de las piezas las adapté al material que tuve a
