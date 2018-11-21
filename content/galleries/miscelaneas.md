@@ -98,5 +98,17 @@ galleryitems:
     itemImage: galleries-miscelaneas-basecompu.jpg
     itemName: Base computador
     itemThumb: galleries-miscelaneas-basecompu-thumb.jpg
+  - itemCaption: >-
+      Las "hojas" están dispuestas de forma helicoidal doble girando alrededor
+      de un eje que hace las veces de tronco.
+
+
+      La altura es de 1,80m y la base tiene 1,20m de diámetro
+
+
+      Material utilizado: tablero de MDF, resistente a la humedad y el fuego
+    itemImage: galleries-miscelaneas-pinoartificial.jpg
+    itemName: Pino navideño artesanal
+    itemThumb: galleries-miscelaneas-pinoartificial-thumb.jpg
 ---
 
