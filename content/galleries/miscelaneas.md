@@ -108,7 +108,7 @@ galleryitems:
 
       Material utilizado: tablero de MDF, resistente a la humedad y el fuego
     itemImage: galleries-miscelaneas-pinoartificial.jpg
-    itemName: Pino navideño artesanal
+    itemName: 'Pino navideño '
     itemThumb: galleries-miscelaneas-pinoartificial-thumb.jpg
 ---
 
