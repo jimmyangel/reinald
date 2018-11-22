@@ -60,7 +60,7 @@ galleryitems:
       permite que la habitación tenga mas usos.
 
 
-      Puede ser cama matrimonial o cama individual
+      Puede ser cama matrimonial o individual
 
 
       Dimensiones: 2,00m x 1,60m
