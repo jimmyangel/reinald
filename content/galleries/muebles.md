@@ -56,8 +56,8 @@ galleryitems:
     itemName: Mesilla de salón
     itemThumb: galleries-muebles-mesitaSalon-thumb.jpg
   - itemCaption: >-
-      Una cama para uso eventual suele anular un ambiente en casa. Este sistema
-      de almacenaje permite que la habitación donde está tenga mas usos.
+      Una cama para uso eventual suele anular un ambiente en casa. Este sistema 
+      permite que la habitación tenga mas usos.
 
 
       Puede ser cama matrimonial o cama individual
