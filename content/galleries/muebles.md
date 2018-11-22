@@ -60,6 +60,9 @@ galleryitems:
       de almacenaje permite que la habitación donde está tenga mas usos.
 
 
+      Puede ser cama matrimonial o cama individual
+
+
       Dimensiones: 2,00m x 1,60m
     itemImage: galleries-muebles-cama.jpg
     itemName: Cama invitados
