@@ -67,5 +67,8 @@ galleryitems:
     itemImage: galleries-muebles-cama.jpg
     itemName: Cama invitados
     itemThumb: galleries-muebles-cama-thumb.jpg
+  - itemCaption: a ver que tal queda el ancho
+    itemImage: galleries-muebles-cama3600x1800
+    itemName: cama3600x1800
 ---
 
