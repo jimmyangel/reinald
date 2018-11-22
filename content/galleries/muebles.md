@@ -55,5 +55,14 @@ galleryitems:
     itemImage: galleries-muebles-mesitaSalon.jpg
     itemName: Mesilla de salón
     itemThumb: galleries-muebles-mesitaSalon-thumb.jpg
+  - itemCaption: >-
+      Una cama para uso eventual suele anular un ambiente en casa. Este sistema
+      de almacenaje permite que la habitación donde está tenga mas usos.
+
+
+      Dimensiones: 2,00m x 1,60m
+    itemImage: galleries-muebles-cama.jpg
+    itemName: Cama invitados
+    itemThumb: galleries-muebles-cama-thumb.jpg
 ---
 
