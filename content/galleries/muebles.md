@@ -1,6 +1,6 @@
 ---
 title: muebles
-label: Muebles
+label: 'Muebles '
 galleryitems:
   - itemCaption: Madera y DM.  Inicio del ensamblaje
     itemImage: galleries-muebles-portadornoscircular0.jpg
