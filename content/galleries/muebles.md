@@ -63,7 +63,7 @@ galleryitems:
       ahumado y madera: oscura y clara. 
 
 
-      \----                                                          
+      \- - - - -                                                          
 
 
       Mueble de salón concebido para separar dos ambientes y uso por ambos
