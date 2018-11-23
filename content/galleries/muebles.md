@@ -61,7 +61,7 @@ galleryitems:
   - itemCaption: >-
       Aparador y mesa de comedor.                       Combinación de vidrio
       ahumado y madera: oscura y
-      clara.                                                ---- 
+      clara.                                                             ---- 
 
 
       Mueble de salón concebido para separar dos ambientes y con uso desde
