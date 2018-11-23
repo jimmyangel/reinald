@@ -63,7 +63,9 @@ galleryitems:
       ahumado y madera: oscura y clara. 
 
 
-      \----                                                                                                          
+      \----                                                          
+
+
       Mueble de salón concebido para separar dos ambientes y uso desde ambos
       lados.                                  Formado por cubos de madera
       sujetos por una columna vertebral y un marco.
