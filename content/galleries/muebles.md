@@ -46,15 +46,6 @@ galleryitems:
     itemImage: galleries-muebles-expositorjuguetes.jpg
     itemName: Organizador de juguetes
     itemThumb: galleries-muebles-expositorjuguetes-thumb.jpg
-  - itemCaption: |-
-      Madera y cristal
-
-
-
-      Dimensiones: 1,00 x 0,60 y altura 0,60
-    itemImage: galleries-muebles-mesitaSalon.jpg
-    itemName: Mesilla de salón
-    itemThumb: galleries-muebles-mesitaSalon-thumb.jpg
   - itemCaption: >-
       Una cama para uso eventual suele anular un ambiente en casa. Este sistema 
       permite que la habitación tenga mas usos.
