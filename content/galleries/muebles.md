@@ -48,7 +48,7 @@ galleryitems:
     itemThumb: galleries-muebles-expositorjuguetes-thumb.jpg
   - itemCaption: >-
       Una cama para uso eventual suele anular un ambiente. Este sistema  permite
-      a una habitación tener mas usos.
+      a una habitación tener otros usos.
 
 
       Puede ser cama matrimonial o individual
