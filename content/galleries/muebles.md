@@ -42,9 +42,7 @@ galleryitems:
     itemImage: galleries-muebles-expositorcuadrados3.jpg
     itemName: Expositor - juego de cuadrados
     itemThumb: galleries-muebles-expositorcuadrados3-thumb.jpg
-  - itemCaption: >-
-      Metacrilato de colores para separaciones internas y madera para marco
-      exterior.
+  - itemCaption: Metacrilato de colores para separaciones internas y madera para el marco.
     itemImage: galleries-muebles-expositorjuguetes.jpg
     itemName: Organizador de juguetes
     itemThumb: galleries-muebles-expositorjuguetes-thumb.jpg
