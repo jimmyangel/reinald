@@ -60,11 +60,10 @@ galleryitems:
     itemThumb: galleries-muebles-cama-thumb.jpg
   - itemCaption: >-
       Aparador y mesa de comedor.                       Combinación de vidrio
-      ahumado y madera: oscura y
-      clara.                                                                                                                                 
-      ---- 
+      ahumado y madera: oscura y clara. 
 
 
+      \----                                                               
       Mueble de salón concebido para separar dos ambientes y con uso desde
       ambos.                                  Formado por cubos de madera
       sujetos por una columna vertebral y un marco.
