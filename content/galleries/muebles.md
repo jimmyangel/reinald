@@ -66,8 +66,8 @@ galleryitems:
       \- - - - -                                                          
 
 
-      Mueble de salón concebido para separar dos ambientes y uso por ambos
-      lados.                                  Formado por cubos de madera
+      Mueble de salón concebido para separar dos ambientes y dar uso a
+      ambos.                                  Formado por cubos de madera
       sujetos a una columna vertebral y un marco.
     itemImage: galleries-muebles-decasa.jpg
     itemName: Muebles caseros
