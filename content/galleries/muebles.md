@@ -47,8 +47,8 @@ galleryitems:
     itemName: Organizador de juguetes
     itemThumb: galleries-muebles-expositorjuguetes-thumb.jpg
   - itemCaption: >-
-      Una cama para uso eventual suele anular un ambiente en casa. Este sistema 
-      permite que la habitación tenga mas usos.
+      Una cama para uso eventual suele anular un ambiente. Este sistema  permite
+      a una habitación tener mas usos.
 
 
       Puede ser cama matrimonial o individual
