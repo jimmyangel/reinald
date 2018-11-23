@@ -51,13 +51,13 @@ galleryitems:
       habitación tener otros usos.
 
 
-      Opción de cama matrimonial o individual
+      Opción de cama matrimonial ó individual
 
 
       Dimensiones: 
 
 
-      2,00m x 1,60m   o   2,00m x 0,80m
+      2,00m x 1,60m   ó   2,00m x 0,80m
     itemImage: galleries-muebles-cama.jpg
     itemName: Cama invitados
     itemThumb: galleries-muebles-cama-thumb.jpg
