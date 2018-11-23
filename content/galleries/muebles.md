@@ -47,14 +47,14 @@ galleryitems:
     itemName: Organizador de juguetes
     itemThumb: galleries-muebles-expositorjuguetes-thumb.jpg
   - itemCaption: >-
-      Una cama para uso eventual suele anular un ambiente. Este sistema  permite
-      a una habitación tener otros usos.
+      Una cama de uso eventual anula un ambiente. Este sistema permite a una
+      habitación tener otros usos.
 
 
-      Puede ser cama matrimonial o individual
+      Opción de cama matrimonial o individual
 
 
-      Dimensiones: 2,00m x 1,60m
+      Dimensiones: 2,00m x 1,60m o 2,00m x 0,80m
     itemImage: galleries-muebles-cama.jpg
     itemName: Cama invitados
     itemThumb: galleries-muebles-cama-thumb.jpg
