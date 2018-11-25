@@ -47,8 +47,8 @@ galleryitems:
       almacenar y exponer los juguetes. 
 
 
-      Materiales: metacrilato de colores transparente para separaciones internas
-      y madera para el marco.
+      Materiales: metacrilato de colores y transparente para separaciones
+      internas y madera para el marco.
 
 
       Dimensiones según necesidad.
