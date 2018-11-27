@@ -26,22 +26,25 @@ galleryitems:
     itemImage: galleries-muebles-portadornoscircular5.jpg
     itemName: Expositor - Círculo
     itemThumb: galleries-muebles-portadornoscircular5-thumb.jpg
-  - itemCaption: Madera y DM
+  - itemCaption: >-
+      Para pequeños adornos que vamos juntando en la vida. Esta solución permite
+      diseños muy variados según necesidad.
+
+
+      Materiales: tablero DM y madera sapely
+
+
+      Dimensiones max: 1,00m x 0,80m
     itemImage: galleries-muebles-expositorcuadrados1.jpg
     itemName: Expositor - juego de cuadrados
     itemThumb: galleries-muebles-expositorcuadrados1-thumb.jpg
-  - itemCaption: Detalle de uniones
+  - itemCaption: |-
+      Detalles de uniones y de fijaciones.
+
+      El mueble colocado y en uso. Un adorno funcional.
     itemImage: galleries-muebles-expositorcuadrados2.jpg
     itemName: Expositor - juego de cuadrados
     itemThumb: galleries-muebles-expositorcuadrados2-thumb.jpg
-  - itemCaption: Adorno y funcional
-    itemImage: galleries-muebles-expositorcuadrados4.jpg
-    itemName: Expositor - juego de cuadrados
-    itemThumb: galleries-muebles-expositorcuadrados4-thumb.jpg
-  - itemCaption: Uniones y fijaciones
-    itemImage: galleries-muebles-expositorcuadrados3.jpg
-    itemName: Expositor - juego de cuadrados
-    itemThumb: galleries-muebles-expositorcuadrados3-thumb.jpg
   - itemCaption: >-
       El sistema del entramado interno crea espacios de tamaños variados para
       almacenar y exponer los juguetes. 
