@@ -2,10 +2,13 @@
 title: muebles
 label: 'Muebles '
 galleryitems:
-  - itemCaption: |-
-      Para organizar y exponer piezas en forma de adorno
+  - itemCaption: >-
+      Para organizar y exponer elementos de todo tipo
 
-      Materiales: tablero DM y madera sapely
+
+      El mueble tiene una estructura principal que soporta las
+      celdas.               Materiales: tablero DM y madera sapely
+
 
       Dimensiones: diámetro=0,80m   Espesor=5y7cm
     itemImage: galleries-muebles-portadornoscircular2.jpg
