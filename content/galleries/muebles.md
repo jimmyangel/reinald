@@ -6,8 +6,11 @@ galleryitems:
       Para organizar y exponer elementos de todo tipo
 
 
-      El mueble está formado por una estructura principal y por
-      celdas.                          Materiales: tablero DM y madera sapely
+      El mueble consta de una estructura principal y celdas sujetas a
+      este.                          
+
+
+      Materiales: tablero DM y madera sapely
 
 
       Dimensiones: diámetro=0,80m   Espesor=5 y 7cm
