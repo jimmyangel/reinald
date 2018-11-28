@@ -21,7 +21,7 @@ galleryitems:
       Cada mueble se puede personalizar, p.ej., en los extremos.
 
 
-      Un extremo emula la formación de ondas en el mar. 
+      Un extremo emula la formación de ondas
 
 
       Los agujeros del lado opuesto la espuma del agua al chocar con la
