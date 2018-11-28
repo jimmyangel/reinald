@@ -18,8 +18,7 @@ galleryitems:
     itemName: Expositor - La Rueda
     itemThumb: galleries-muebles-portadornoscircular2-thumb.jpg
   - itemCaption: >-
-      Cada mueble se puede personalizar decorando, como en este caso, los
-      extremos de la estructura.
+      Cada mueble se puede personalizar, p.ej., en los extremos.
 
 
       Uno de los extremos emula la formación de ondas en el mar. Los agujeros
