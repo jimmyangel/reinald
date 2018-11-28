@@ -2,18 +2,18 @@
 title: muebles
 label: 'Muebles '
 galleryitems:
-  - itemCaption: Madera y DM.  Inicio del ensamblaje
-    itemImage: galleries-muebles-portadornoscircular0.jpg
-    itemName: Expositor - Círculo
-    itemThumb: galleries-muebles-portadornoscircular0-thumb.jpg
-  - itemCaption: Ensamblaje listo
-    itemImage: galleries-muebles-portadornoscircular1.jpg
-    itemName: Expositor - Círculo
-    itemThumb: galleries-muebles-portadornoscircular1-thumb.jpg
   - itemCaption: Detalle de unión entre piezas
     itemImage: galleries-muebles-portadornoscircular2.jpg
     itemName: 'Expositor - Círculo '
     itemThumb: galleries-muebles-portadornoscircular2-thumb.jpg
+  - itemCaption: Ensamblaje listo
+    itemImage: galleries-muebles-portadornoscircular1.jpg
+    itemName: Expositor - Círculo
+    itemThumb: galleries-muebles-portadornoscircular1-thumb.jpg
+  - itemCaption: Madera y DM.  Inicio del ensamblaje
+    itemImage: galleries-muebles-portadornoscircular0.jpg
+    itemName: Expositor - Círculo
+    itemThumb: galleries-muebles-portadornoscircular0-thumb.jpg
   - itemCaption: >-
       Para pequeños adornos que vamos juntando en la vida. Esta solución permite
       diseños muy variados según necesidad.
