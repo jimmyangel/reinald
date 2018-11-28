@@ -28,7 +28,9 @@ galleryitems:
     itemName: Expositor - La Rueda
     itemThumb: galleries-muebles-portadornoscircular1-thumb.jpg
   - itemCaption: >-
-      Las piezas están preparadas para ser ensambladas según las instrucciones.
+      Las piezas están preparadas para ser ensambladas según las instrucciones. 
+
+
       Cada pieza está enumerada.
 
 
