@@ -39,7 +39,7 @@ galleryitems:
       madera DM
 
 
-      Otra versión del mueble está en la última foto.
+      Otra versión está en la última foto.
     itemImage: galleries-muebles-portadornoscircular0.jpg
     itemName: Expositor - La Rueda
     itemThumb: galleries-muebles-portadornoscircular0-thumb.jpg
