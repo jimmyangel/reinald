@@ -22,10 +22,8 @@ galleryitems:
 
 
       Uno de los extremos emula la formación de ondas en el mar. Los agujeros
-      del lado opuesto la espuma del agua al chocar con la orilla.
-
-
-      El acabado inferior emula el soporte del mueble y el superior el remate.
+      del lado opuesto la espuma del agua al chocar con la orilla.  El acabado
+      inferior emula el soporte del mueble y el superior es el remate.
     itemImage: galleries-muebles-portadornoscircular1.jpg
     itemName: Expositor - La Rueda
     itemThumb: galleries-muebles-portadornoscircular1-thumb.jpg
