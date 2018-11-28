@@ -17,11 +17,22 @@ galleryitems:
     itemImage: galleries-muebles-portadornoscircular2.jpg
     itemName: Expositor - La Rueda
     itemThumb: galleries-muebles-portadornoscircular2-thumb.jpg
-  - itemCaption: Ensamblaje listo
+  - itemCaption: >-
+      Cada mueble se puede personalizar decorando, como en este caso, los
+      extremos de la estructura.
     itemImage: galleries-muebles-portadornoscircular1.jpg
     itemName: Expositor - La Rueda
     itemThumb: galleries-muebles-portadornoscircular1-thumb.jpg
-  - itemCaption: Madera y DM.  Inicio del ensamblaje
+  - itemCaption: >-
+      Las piezas están preparadas para ser ensambladas en la secuencia que
+      indican las instrucciones. Cada pieza está enumerada.
+
+
+      El mueble viene desarmado con el instructivo y en una caja. En este caso
+      madera DM
+
+
+      Otra versión del mueble está en la última foto.
     itemImage: galleries-muebles-portadornoscircular0.jpg
     itemName: Expositor - La Rueda
     itemThumb: galleries-muebles-portadornoscircular0-thumb.jpg
