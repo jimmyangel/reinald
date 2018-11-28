@@ -2,17 +2,22 @@
 title: muebles
 label: 'Muebles '
 galleryitems:
-  - itemCaption: Detalle de unión entre piezas
+  - itemCaption: |-
+      Para organizar y exponer piezas en forma de adorno
+
+      Materiales: tablero DM y madera sapely
+
+      Dimensiones: diámetro=0,80m   Espesor=5y7cm
     itemImage: galleries-muebles-portadornoscircular2.jpg
-    itemName: 'Expositor - Círculo '
+    itemName: Expositor - La Rueda
     itemThumb: galleries-muebles-portadornoscircular2-thumb.jpg
   - itemCaption: Ensamblaje listo
     itemImage: galleries-muebles-portadornoscircular1.jpg
-    itemName: Expositor - Círculo
+    itemName: Expositor - La Rueda
     itemThumb: galleries-muebles-portadornoscircular1-thumb.jpg
   - itemCaption: Madera y DM.  Inicio del ensamblaje
     itemImage: galleries-muebles-portadornoscircular0.jpg
-    itemName: Expositor - Círculo
+    itemName: Expositor - La Rueda
     itemThumb: galleries-muebles-portadornoscircular0-thumb.jpg
   - itemCaption: >-
       Para pequeños adornos que vamos juntando en la vida. Esta solución permite
