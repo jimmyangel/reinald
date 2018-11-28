@@ -31,8 +31,8 @@ galleryitems:
     itemName: Expositor - La Rueda
     itemThumb: galleries-muebles-portadornoscircular1-thumb.jpg
   - itemCaption: >-
-      Las piezas están preparadas para ser ensambladas en la secuencia que
-      indican las instrucciones. Cada pieza está enumerada.
+      Las piezas están preparadas para ser ensambladas según las instrucciones.
+      Cada pieza está enumerada.
 
 
       El mueble viene desarmado con el instructivo y en una caja. En este caso
