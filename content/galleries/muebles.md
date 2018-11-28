@@ -14,18 +14,6 @@ galleryitems:
     itemImage: galleries-muebles-portadornoscircular2.jpg
     itemName: 'Expositor - Círculo '
     itemThumb: galleries-muebles-portadornoscircular2-thumb.jpg
-  - itemCaption: Detalle de un extremo
-    itemImage: galleries-muebles-portadornoscircular3.jpg
-    itemName: Expositor - Círculo
-    itemThumb: galleries-muebles-portadornoscircular3-thumb.jpg
-  - itemCaption: Detalle de un extremo
-    itemImage: galleries-muebles-portadornoscircular4.jpg
-    itemName: Expositor - Círculo
-    itemThumb: galleries-muebles-portadornoscircular4-thumb.jpg
-  - itemCaption: Funcional y artístico
-    itemImage: galleries-muebles-portadornoscircular5.jpg
-    itemName: Expositor - Círculo
-    itemThumb: galleries-muebles-portadornoscircular5-thumb.jpg
   - itemCaption: >-
       Para pequeños adornos que vamos juntando en la vida. Esta solución permite
       diseños muy variados según necesidad.
