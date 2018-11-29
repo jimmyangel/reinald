@@ -13,8 +13,9 @@ galleryitems:
       Materiales: tablero DM y madera sapely
 
 
-      Dimensiones: diámetro=0,80m                                      
-      Espesor=5 y 7cm
+      Dimensiones: diámetro=
+      0,80m                                                       espesor= 5 y
+      7cm
     itemImage: galleries-muebles-portadornoscircular2.jpg
     itemName: Expositor - La Rueda
     itemThumb: galleries-muebles-portadornoscircular2-thumb.jpg
