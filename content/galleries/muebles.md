@@ -3,7 +3,7 @@ title: muebles
 label: 'Muebles '
 galleryitems:
   - itemCaption: >-
-      Para organizar y exponer elementos de todo tipo
+      Organiza y expone piezas o elementos de todo tipo
 
 
       El mueble consta de una estructura principal y celdas sujetas a
@@ -13,23 +13,22 @@ galleryitems:
       Materiales: tablero DM y madera sapely
 
 
-      Dimensiones: diámetro=0,80m   Espesor=5 y 7cm
+      Dimensiones: diámetro=0,80m        Espesor=5 y 7cm
     itemImage: galleries-muebles-portadornoscircular2.jpg
     itemName: Expositor - La Rueda
     itemThumb: galleries-muebles-portadornoscircular2-thumb.jpg
   - itemCaption: >-
-      Cada mueble se puede personalizar, p.ej., en los extremos.
+      Cada mueble se puede personalizar. En los extremos en este caso.
 
 
       Un extremo emula la formación de ondas
 
 
-      Los agujeros del lado opuesto la espuma del agua al chocar con la
-      orilla.  
+      Los agujeros del lado opuesto espuma del agua al chocar con una orilla.  
 
 
-      El acabado inferior emula el soporte del mueble y el superior es el
-      remate.
+      El extremo inferior hace de soporte del mueble y el superior de acabado
+      final.
     itemImage: galleries-muebles-portadornoscircular1.jpg
     itemName: Expositor - La Rueda
     itemThumb: galleries-muebles-portadornoscircular1-thumb.jpg
@@ -37,11 +36,11 @@ galleryitems:
       Las piezas están preparadas para ser ensambladas según las instrucciones. 
 
 
-      Cada pieza está enumerada.
+      Cada una está enumerada.
 
 
-      El mueble viene desarmado con el instructivo y en una caja. En este caso
-      madera DM
+      El mueble viene desarmado en una caja junto con las instrucciones del
+      ensamblado.
 
 
       Otra versión está en la última foto.
