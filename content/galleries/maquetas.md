@@ -3,8 +3,8 @@ title: maquetas
 label: Maquetas
 galleryitems:
   - itemCaption: >-
-      Tribuna prefabricada. Encargo realizada para una empresa de prefabricados
-      de hormigón y acero.
+      Tribuna prefabricada, encargo de una empresa de prefabricados de hormigón
+      y acero.
 
 
       Materiales: plástico varios espesores y pintura acrílica.   
