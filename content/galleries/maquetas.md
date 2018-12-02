@@ -2,33 +2,40 @@
 title: maquetas
 label: Maquetas
 galleryitems:
-  - itemCaption: |-
-      Tribuna prefabricada.
+  - itemCaption: >-
+      Tribuna prefabricada. Encargo realizada para una empresa de prefabricados
+      de hormigón y acero.
 
-      Realizada en plástico y pintura acrílica.   
+
+      Materiales: plástico varios espesores y pintura acrílica.   
+
 
       Escala 1:50
     itemImage: galleries-maquetas-tribunaprefabricada.jpg
-    itemName: Maqueta publicitaria
+    itemName: Publicitaria 1
     itemThumb: galleries-maquetas-tribunaprefabricada-thumb.jpg
   - itemCaption: >-
-      Presentación del proyecto de arquitectura de una estudiante de la
-      Universidad Simón Bolívar, Venezuela.
+      Realizada para un estudiante de arquitectura de la Universidad Simón
+      Bolívar, Venezuela.
 
 
-      Desarmable por plantas para una visualización total del edificio.
+      Se desarma planta a planta para una visualización total del edificio.
 
 
-      Cartón básico de varios espesores
+      Material utilizado: cartón sencillo de varios espesores según la escala de
+      cada elemento.
 
 
       Escala 1:200
     itemImage: galleries-maquetas-tesisgradoMila.jpg
-    itemName: Maqueta para Proyecto de Grado
+    itemName: Proyecto de Grado 1
     itemThumb: galleries-maquetas-tesisgradoMila-thumb.jpg
   - itemCaption: >-
-      Vivienda unifamiliar en urbanización Los Anaucos, estado Miranda,
+      Vivienda unifamiliar en urbanización Los Anaucos-Estado Miranda,
       Venezuela.
+
+
+      Diseño y maqueta realizado para la propiedad.
 
 
       Plástico y pintura acrílica. 
@@ -36,53 +43,58 @@ galleryitems:
 
       Escala 1:200
     itemImage: galleries-maquetas-losanaucos.jpg
-    itemName: 'Maqueta de presentación '
+    itemName: Presentación 2
     itemThumb: galleries-maquetas-losanaucos-thumb.jpg
   - itemCaption: |-
-      Vivienda Unifamiliar en urbanización Prados del Este, Caracas, Venezuela.
+      Vivienda Unifamiliar en urbanización Prados del Este-Caracas, Venezuela.
+
+      Diseño y maqueta realizado para un estudio de arquitectura.
 
       Plástico y pintura acrílica.
 
       Escala 1:100
     itemImage: galleries-maquetas-miproyectoconToniLoc.jpg
-    itemName: Maqueta de presentación
+    itemName: Presentación 2
     itemThumb: galleries-maquetas-miproyectoconToniLoc-thumb.jpg
   - itemCaption: >-
-      Presentación del proyecto de arquitectura de un estudiante de la
-      Universidad Simón Bolívar, Venezuela.
+      Realizada para un estudiante de arquitectura de la Universidad Simón
+      Bolívar, Venezuela.
 
 
-      Desarmable por plantas y fachadas para una visualización total del
-      edificio.
+      Se desarman plantas y fachadas para una visualización total del edificio.
 
 
-      Cartón básico de varios espesores
+      Material utilizado: cartón sencillo de varios espesores según la escala de
+      cada elemento.
 
 
       Escala 1:200
     itemImage: galleries-maquetas-tesisgradoMachicha.jpg
-    itemName: Maqueta para Proyecto de Grado
+    itemName: Proyecto de Grado 2
     itemThumb: galleries-maquetas-tesisgradoMachicha-thumb.jpg
-  - itemCaption: |-
-      Vivienda Unifamiliar en Caracas, Venezuela.
+  - itemCaption: >-
+      Vivienda Unifamiliar en Caracas, Venezuela. Encargo realizado para un
+      estudio de arquitectura.
 
-      Plástico y pintura acrílica.
+
+      Materiales: plástico y pintura acrílica.
+
 
       Escala 1:100
     itemImage: galleries-maquetas-proyectodeToniLoc.jpg
-    itemName: Maqueta de Presentación
+    itemName: Presentación 1
     itemThumb: galleries-maquetas-proyectodeToniLoc-thumb.jpg
   - itemCaption: >-
-      Modelo de Vivienda de Protección Oficial para una urbanización de casas
-      prefabricadas en Cúa, estado Aragua, Venezuela. 
+      Modelo de Viviendas prefabricadas de Protección Oficial-VPO en Cúa-Estado
+      Aragua, Venezuela. Encargo realizado para una ingeniería.
 
 
-      Madera de balsa, plástico, metal y pintura acrílica.
+      Materiales: madera de balsa, plástico, metal y pintura acrílica.
 
 
       Escala 1:50
     itemImage: 'galleries-maquetas-Cua1979Elemesa.jpg '
-    itemName: Maqueta publicitaria
+    itemName: Publicitaria 2
     itemThumb: galleries-maquetas-Cua1979Elemesa-thumb.jpg
 ---
 
