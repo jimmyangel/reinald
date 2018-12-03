@@ -12,7 +12,7 @@ galleryitems:
 
       Escala 1:50
     itemImage: galleries-maquetas-tribunaprefabricada.jpg
-    itemName: Publicidad 1
+    itemName: 'Publicidad 1 '
     itemThumb: galleries-maquetas-tribunaprefabricada-thumb.jpg
   - itemCaption: >-
       Modelo de Viviendas prefabricadas de Protección Oficial-VPO en Cúa-Estado
