@@ -15,6 +15,18 @@ galleryitems:
     itemName: Publicitaria 1
     itemThumb: galleries-maquetas-tribunaprefabricada-thumb.jpg
   - itemCaption: >-
+      Modelo de Viviendas prefabricadas de Protección Oficial-VPO en Cúa-Estado
+      Aragua, Venezuela. Encargo realizado para una ingeniería.
+
+
+      Materiales: madera de balsa, plástico, metal y pintura acrílica.
+
+
+      Escala 1:50
+    itemImage: 'galleries-maquetas-Cua1979Elemesa.jpg '
+    itemName: Publicitaria 2
+    itemThumb: galleries-maquetas-Cua1979Elemesa-thumb.jpg
+  - itemCaption: >-
       Realizada para un estudiante de arquitectura de la Universidad Simón
       Bolívar, Venezuela.
 
@@ -30,32 +42,6 @@ galleryitems:
     itemImage: galleries-maquetas-tesisgradoMila.jpg
     itemName: Proyecto de Grado 1
     itemThumb: galleries-maquetas-tesisgradoMila-thumb.jpg
-  - itemCaption: >-
-      Vivienda unifamiliar en urbanización Los Anaucos-Estado Miranda,
-      Venezuela.
-
-
-      Diseño y maqueta realizado para la propiedad.
-
-
-      Plástico y pintura acrílica. 
-
-
-      Escala 1:200
-    itemImage: galleries-maquetas-losanaucos.jpg
-    itemName: Presentación 2
-    itemThumb: galleries-maquetas-losanaucos-thumb.jpg
-  - itemCaption: |-
-      Vivienda Unifamiliar en urbanización Prados del Este-Caracas, Venezuela.
-
-      Diseño y maqueta realizado para un estudio de arquitectura.
-
-      Plástico y pintura acrílica.
-
-      Escala 1:100
-    itemImage: galleries-maquetas-miproyectoconToniLoc.jpg
-    itemName: Presentación 3
-    itemThumb: galleries-maquetas-miproyectoconToniLoc-thumb.jpg
   - itemCaption: >-
       Realizada para un estudiante de arquitectura de la Universidad Simón
       Bolívar, Venezuela.
@@ -85,17 +71,31 @@ galleryitems:
     itemName: Presentación 1
     itemThumb: galleries-maquetas-proyectodeToniLoc-thumb.jpg
   - itemCaption: >-
-      Modelo de Viviendas prefabricadas de Protección Oficial-VPO en Cúa-Estado
-      Aragua, Venezuela. Encargo realizado para una ingeniería.
+      Vivienda unifamiliar en urbanización Los Anaucos-Estado Miranda,
+      Venezuela.
 
 
-      Materiales: madera de balsa, plástico, metal y pintura acrílica.
+      Diseño y maqueta realizado para la propiedad.
 
 
-      Escala 1:50
-    itemImage: 'galleries-maquetas-Cua1979Elemesa.jpg '
-    itemName: Publicitaria 2
-    itemThumb: galleries-maquetas-Cua1979Elemesa-thumb.jpg
+      Plástico y pintura acrílica. 
+
+
+      Escala 1:200
+    itemImage: galleries-maquetas-losanaucos.jpg
+    itemName: Presentación 2
+    itemThumb: galleries-maquetas-losanaucos-thumb.jpg
+  - itemCaption: |-
+      Vivienda Unifamiliar en urbanización Prados del Este-Caracas, Venezuela.
+
+      Diseño y maqueta realizado para un estudio de arquitectura.
+
+      Plástico y pintura acrílica.
+
+      Escala 1:100
+    itemImage: galleries-maquetas-miproyectoconToniLoc.jpg
+    itemName: Presentación 3
+    itemThumb: galleries-maquetas-miproyectoconToniLoc-thumb.jpg
   - itemCaption: >-
       Edificio Multifamiliar en Caracas, Venezuela.
 
