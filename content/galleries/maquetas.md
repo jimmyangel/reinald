@@ -12,7 +12,7 @@ galleryitems:
 
       Escala 1:50
     itemImage: galleries-maquetas-tribunaprefabricada.jpg
-    itemName: Publicitaria 1
+    itemName: Publicidad 1
     itemThumb: galleries-maquetas-tribunaprefabricada-thumb.jpg
   - itemCaption: >-
       Modelo de Viviendas prefabricadas de Protección Oficial-VPO en Cúa-Estado
@@ -24,40 +24,8 @@ galleryitems:
 
       Escala 1:50
     itemImage: 'galleries-maquetas-Cua1979Elemesa.jpg '
-    itemName: Publicitaria 2
+    itemName: Publicidad 2
     itemThumb: galleries-maquetas-Cua1979Elemesa-thumb.jpg
-  - itemCaption: >-
-      Realizada para un estudiante de arquitectura de la Universidad Simón
-      Bolívar, Venezuela.
-
-
-      Se desarma planta a planta para una visualización total del edificio.
-
-
-      Material utilizado: cartón sencillo de varios espesores según la escala de
-      cada elemento.
-
-
-      Escala 1:200
-    itemImage: galleries-maquetas-tesisgradoMila.jpg
-    itemName: Proyecto de Grado 1
-    itemThumb: galleries-maquetas-tesisgradoMila-thumb.jpg
-  - itemCaption: >-
-      Realizada para un estudiante de arquitectura de la Universidad Simón
-      Bolívar, Venezuela.
-
-
-      Se desarman plantas y fachadas para una visualización total del edificio.
-
-
-      Material utilizado: cartón sencillo de varios espesores según la escala de
-      cada elemento.
-
-
-      Escala 1:200
-    itemImage: galleries-maquetas-tesisgradoMachicha.jpg
-    itemName: Proyecto de Grado 2
-    itemThumb: galleries-maquetas-tesisgradoMachicha-thumb.jpg
   - itemCaption: >-
       Vivienda Unifamiliar en Caracas, Venezuela. Encargo realizado para un
       estudio de arquitectura.
@@ -111,5 +79,37 @@ galleryitems:
     itemImage: galleries-maquetas-maqt´s.jpg
     itemName: Presentación 4
     itemThumb: galleries-maquetas-maqt´s-thumb.jpg
+  - itemCaption: >-
+      Realizada para un estudiante de arquitectura de la Universidad Simón
+      Bolívar, Venezuela.
+
+
+      Se desarma planta a planta para una visualización total del edificio.
+
+
+      Material utilizado: cartón sencillo de varios espesores según la escala de
+      cada elemento.
+
+
+      Escala 1:200
+    itemImage: galleries-maquetas-tesisgradoMila.jpg
+    itemName: Proyecto de Grado 1
+    itemThumb: galleries-maquetas-tesisgradoMila-thumb.jpg
+  - itemCaption: >-
+      Realizada para un estudiante de arquitectura de la Universidad Simón
+      Bolívar, Venezuela.
+
+
+      Se desarman plantas y fachadas para una visualización total del edificio.
+
+
+      Material utilizado: cartón sencillo de varios espesores según la escala de
+      cada elemento.
+
+
+      Escala 1:200
+    itemImage: galleries-maquetas-tesisgradoMachicha.jpg
+    itemName: Proyecto de Grado 2
+    itemThumb: galleries-maquetas-tesisgradoMachicha-thumb.jpg
 ---
 
