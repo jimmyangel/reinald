@@ -54,7 +54,7 @@ galleryitems:
 
       Escala 1:100
     itemImage: galleries-maquetas-miproyectoconToniLoc.jpg
-    itemName: Presentación 2
+    itemName: Presentación 3
     itemThumb: galleries-maquetas-miproyectoconToniLoc-thumb.jpg
   - itemCaption: >-
       Realizada para un estudiante de arquitectura de la Universidad Simón
@@ -96,5 +96,20 @@ galleryitems:
     itemImage: 'galleries-maquetas-Cua1979Elemesa.jpg '
     itemName: Publicitaria 2
     itemThumb: galleries-maquetas-Cua1979Elemesa-thumb.jpg
+  - itemCaption: >-
+      Edificio Multifamiliar en Caracas, Venezuela.
+
+
+      Colaboración con Estudio de Arquitectura Maqt´s y realizada para la
+      promotora.
+
+
+      Materiales: plásticos varios, corcho y pintura acrílica.
+
+
+      Escala 1:200
+    itemImage: galleries-maquetas-maqt´s.jpg
+    itemName: Presentación 4
+    itemThumb: galleries-maquetas-maqt´s-thumb.jpg
 ---
 
