@@ -23,5 +23,14 @@ galleryitems:
     itemImage: galleries-proyectos-losanaucos3.jpg
     itemName: 'Render: vivienda unifamiliar   -   3/3'
     itemThumb: galleries-proyectos-losanaucos3-thumb.jpg
+  - itemCaption: >-
+      El estudio para estas Residencias Estudiantiles tiene como emplazamiento
+      la urbanización La Trinidad, Caracas. 
+
+
+      Renders realizados con el programa Revit
+    itemImage: galleries-proyectos-ResidEstud1.jpg
+    itemName: 'Render: Residencias Estudiantiles  -  1/'
+    itemThumb: galleries-proyectos-ResidEstud1-thumb.jpg
 ---
 
