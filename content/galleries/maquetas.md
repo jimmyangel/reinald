@@ -112,8 +112,8 @@ galleryitems:
     itemName: Proyecto de Grado 2
     itemThumb: galleries-maquetas-tesisgradoMachicha-thumb.jpg
   - itemCaption: >-
-      Realizada para estudiante de arquitectura de la Universidad Simón Bolívar,
-      Venezuela.
+      Realizada para mi, como estudiante de arquitectura de la Universidad Simón
+      Bolívar, Venezuela.
 
 
       Materiales utilizados: cartón sencillo de varios colores y espesores según
