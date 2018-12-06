@@ -45,5 +45,12 @@ galleryitems:
     itemImage: galleries-proyectos-ResidEstud3.jpg
     itemName: 'Render: Residencias Estudiantiles  -  3/'
     itemThumb: galleries-proyectos-ResidEstud3-thumb.jpg
+  - itemCaption: |-
+      Modulo de habitaciones, acceso principal y detalles de fachada.
+
+      Proyecto y renders realizados con Revit
+    itemImage: galleries-proyectos-ResidEstud4.jpg
+    itemName: 'Render: Residencias Estudiantiles  -  4/'
+    itemThumb: galleries-proyectos-ResidEstud4-thumb.jpg
 ---
 
