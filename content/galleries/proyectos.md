@@ -28,9 +28,18 @@ galleryitems:
       la urbanización La Trinidad, Caracas. 
 
 
-      Renders realizados con el programa Revit
+      Proyecto y renders realizados con Revit
     itemImage: galleries-proyectos-ResidEstud1.jpg
     itemName: 'Render: Residencias Estudiantiles  -  1/'
     itemThumb: galleries-proyectos-ResidEstud1-thumb.jpg
+  - itemCaption: >-
+      En esta vista hay uno de los módulos de habitaciones visto desde uno de
+      los cafetines internos de la Residencia.
+
+
+      Proyecto y renders realizados con Revit
+    itemImage: galleries-proyectos-ResidEstud3.jpg
+    itemName: 'Render: Residencias Estudiantiles  -  3/'
+    itemThumb: galleries-proyectos-ResidEstud3-thumb.jpg
 ---
 
