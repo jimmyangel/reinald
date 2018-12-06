@@ -111,5 +111,18 @@ galleryitems:
     itemImage: galleries-maquetas-tesisgradoMachicha.jpg
     itemName: Proyecto de Grado 2
     itemThumb: galleries-maquetas-tesisgradoMachicha-thumb.jpg
+  - itemCaption: >-
+      Realizada para un estudiante de arquitectura de la Universidad Simón
+      Bolívar, Venezuela.
+
+
+      Materiales utilizados: cartón sencillo de varios colores y espesores según
+      la escala de cada elemento; corcho; poliuretano; madera balsa y plástico.
+
+
+      Escala 1:200
+    itemImage: galleries-maquetas-tesisgradoReinaldVW.jpg
+    itemName: Proyecto de Grado 3
+    itemThumb: galleries-maquetas-tesisgradoReinaldVW-thumb.jpg
 ---
 
