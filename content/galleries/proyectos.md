@@ -7,7 +7,7 @@ galleryitems:
 
       Urbanización Los Anaucos - Caracas
     itemImage: galleries-proyectos-losanaucos1.jpg
-    itemName: 'Render: vivienda unifamiliar   -   1/3'
+    itemName: 'Render: vivienda unifamiliar   -   1/3 '
     itemThumb: galleries-proyectos-losanaucos1-thumb.jpg
   - itemCaption: |-
       Vista exterior de la casa desde el jardín.
