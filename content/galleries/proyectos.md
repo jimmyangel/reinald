@@ -1,5 +1,5 @@
 ---
-title: proyectos
+title: 'proyectos '
 label: Proyectos
 galleryitems:
   - itemCaption: |-
