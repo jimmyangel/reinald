@@ -43,6 +43,13 @@ galleryitems:
     itemImage: galleries-proyectos-ResidEstud2.jpg
     itemName: 'Render: Residencias Estudiantiles  -  2/6'
     itemThumb: galleries-proyectos-ResidEstud2-thumb.jpg
+  - itemCaption: |-
+      Edificio administrativo y servicios al fondo.
+
+      Proyecto y renders realizados con Revit
+    itemImage: galleries-proyectos-ResidEstud6.jpg
+    itemName: 'Render: Residencias Estudiantiles  -  3/6'
+    itemThumb: galleries-proyectos-ResidEstud6-thumb.jpg
   - itemCaption: >-
       En esta vista hay uno de los módulos de habitaciones visto desde uno de
       los cafetines internos de la Residencia.
@@ -66,12 +73,5 @@ galleryitems:
     itemImage: galleries-proyectos-ResidEstud5.jpg
     itemName: 'Render: Residencias Estudiantiles  -  6/6'
     itemThumb: galleries-proyectos-ResidEstud5-thumb.jpg
-  - itemCaption: |-
-      Edificio administrativo y servicios al fondo.
-
-      Proyecto y renders realizados con Revit
-    itemImage: galleries-proyectos-ResidEstud6.jpg
-    itemName: 'Render: Residencias Estudiantiles  -  3/6'
-    itemThumb: galleries-proyectos-ResidEstud6-thumb.jpg
 ---
 
