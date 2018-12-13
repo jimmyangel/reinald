@@ -3,7 +3,7 @@ title: 'proyectos '
 label: Proyectos
 galleryitems:
   - itemCaption: |-
-      Iluminación nocturna exterior de jardines y casa.
+      Iluminación nocturna exterior: jardines y casa.
 
       Urbanización Los Anaucos - Caracas
     itemImage: galleries-proyectos-losanaucos1.jpg
